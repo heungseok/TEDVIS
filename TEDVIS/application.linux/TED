@@ -1,0 +1,4 @@
+#!/bin/sh
+
+APPDIR=$(dirname "$0")
+java  -Djava.library.path="$APPDIR" -cp "$APPDIR/lib/TED.jar:$APPDIR/lib/resources.jar:$APPDIR/lib/rt.jar:$APPDIR/lib/jsse.jar:$APPDIR/lib/jce.jar:$APPDIR/lib/charsets.jar:$APPDIR/lib/jfr.jar:$APPDIR/lib/access-bridge-64.jar:$APPDIR/lib/catalina.jar:$APPDIR/lib/dnsns.jar:$APPDIR/lib/el-api.jar:$APPDIR/lib/jaccess.jar:$APPDIR/lib/jsp-api.jar:$APPDIR/lib/localedata.jar:$APPDIR/lib/ojdbc6.jar:$APPDIR/lib/servlet-api.jar:$APPDIR/lib/sunec.jar:$APPDIR/lib/sunjce_provider.jar:$APPDIR/lib/sunmscapi.jar:$APPDIR/lib/tomcat-api.jar:$APPDIR/lib/zipfs.jar:$APPDIR/lib/core.jar:$APPDIR/lib/GenerativeDesign.jar:$APPDIR/lib/controlP5.jar:$APPDIR/lib/opencsv-3.1.jar" TED_test.TED

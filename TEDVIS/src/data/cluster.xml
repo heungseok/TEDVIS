@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <element>
+      <children>
+         <element>mining</element>
+         <element>moon</element>
+         <element>nasa</element>
+         <element>extraterrestrial life</element>
+         <element>big bang</element>
+         <element>aircraft</element>
+         <element>dark matter</element>
+         <element>flight</element>
+         <element>cars</element>
+         <element>geology</element>
+         <element>string theory</element>
+         <element>astronomy</element>
+         <element>mission blue</element>
+         <element>mobility</element>
+         <element>drones</element>
+         <element>fish</element>
+         <element>rocket science</element>
+         <element>time</element>
+         <element>solar</element>
+         <element>cosmos</element>
+         <element>submarine</element>
+         <element>planets</element>
+         <element>oceans</element>
+      </children>
+      <children_count>23</children_count>
+      <cluster_id>1</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Bees</element>
+         <element>Botany</element>
+         <element>Brazil</element>
+         <element>Biomechanics</element>
+         <element>Ants</element>
+         <element>Biosphere</element>
+         <element>Biodiversity</element>
+         <element>Agriculture</element>
+         <element>Birds</element>
+         <element>Deextinction</element>
+         <element>Biomimicry</element>
+         <element>Animals</element>
+         <element>Garden</element>
+         <element>Latin America</element>
+         <element>Insects</element>
+         <element>Trees</element>
+         <element>Primates</element>
+         <element>Sex</element>
+         <element>TEDBooks</element>
+      </children>
+      <children_count>19</children_count>
+      <cluster_id>2</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Cello</element>
+         <element>Composing</element>
+         <element>Violin</element>
+         <element>Nuclear weapons</element>
+         <element>Oil</element>
+         <element>Guitar</element>
+         <element>LGBT</element>
+         <element>Solar energy</element>
+         <element>Piano</element>
+         <element>Disaster relief</element>
+         <element>Gender</element>
+         <element>Depression</element>
+         <element>Natural disaster</element>
+         <element>Identity</element>
+         <element>Cooperation</element>
+         <element>Extreme sports</element>
+         <element>Live music</element>
+         <element>Performance art</element>
+         <element>Inequality</element>
+         <element>Alternative energy</element>
+         <element>Theater</element>
+         <element>Pain</element>
+         <element>Energy</element>
+         <element>Origami</element>
+         <element>Vocals</element>
+         <element>Wunderkind</element>
+         <element>Wind energy</element>
+         <element>Pollution</element>
+         <element>Singer</element>
+         <element>Potential</element>
+         <element>Weather</element>
+         <element>Mental health</element>
+         <element>Goal-setting</element>
+         <element>Memory</element>
+         <element>Fear</element>
+         <element>Sports</element>
+         <element>Relationships</element>
+         <element>United States</element>
+         <element>Senses</element>
+         <element>Personal growth</element>
+      </children>
+      <children_count>40</children_count>
+      <cluster_id>3</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Slavery</element>
+         <element>Policy</element>
+         <element>Iran</element>
+         <element>Egypt</element>
+         <element>Feminism</element>
+         <element>Empathy</element>
+         <element>Foreign Policy</element>
+         <element>Men</element>
+         <element>Protests</element>
+         <element>Trafficking</element>
+         <element>Bullying</element>
+         <element>Iraq</element>
+         <element>Privacy</element>
+         <element>Nuclear energy</element>
+         <element>Yesallwomen</element>
+         <element>Sociology</element>
+         <element>Middle East</element>
+         <element>State-building</element>
+         <element>Military</element>
+         <element>Islam</element>
+      </children>
+      <children_count>20</children_count>
+      <cluster_id>4</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Exoskeleton</element>
+         <element>Investment</element>
+         <element>Cyborg</element>
+         <element>Microfinance</element>
+         <element>Behavioral economics</element>
+         <element>Heart health</element>
+         <element>Choice</element>
+         <element>Consciousness</element>
+         <element>Disability</element>
+         <element>Monkeys</element>
+         <element>Neurology</element>
+         <element>Medical research</element>
+         <element>Sound</element>
+         <element>Prosthetics</element>
+         <element>Finance</element>
+         <element>Public health</element>
+         <element>Health care</element>
+         <element>Telecom</element>
+         <element>Decision-making</element>
+         <element>Women in business</element>
+         <element>Mind</element>
+         <element>Speech</element>
+         <element>Morality</element>
+         <element>Sight</element>
+         <element>Neuroscience</element>
+         <element>Surgery</element>
+         <element>Obesity</element>
+         <element>Third world</element>
+      </children>
+      <children_count>28</children_count>
+      <cluster_id>5</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Meditation</element>
+         <element>Charter for compassion</element>
+         <element>Atheism</element>
+         <element>Buddhism</element>
+         <element>Body language</element>
+         <element>Chautauqua</element>
+         <element>Christianity</element>
+         <element>Failure</element>
+         <element>Faith</element>
+         <element>Student</element>
+         <element>Mindfulness</element>
+         <element>Compassion</element>
+         <element>Productivity</element>
+         <element>Self</element>
+         <element>God</element>
+         <element>Success</element>
+         <element>Religion</element>
+         <element>Work</element>
+         <element>Love</element>
+         <element>Meme</element>
+         <element>Youth</element>
+         <element>Death</element>
+      </children>
+      <children_count>22</children_count>
+      <cluster_id>6</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>AI</element>
+         <element>Security</element>
+         <element>Hack</element>
+         <element>Algorithm</element>
+         <element>Jazz</element>
+         <element>Cloud</element>
+         <element>Terrorism</element>
+         <element>Intelligence</element>
+         <element>Robots</element>
+         <element>Future</element>
+      </children>
+      <children_count>10</children_count>
+      <cluster_id>7</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Dinosaurs</element>
+         <element>Human origins</element>
+         <element>Apes</element>
+         <element>Anthropology</element>
+         <element>Bacteria</element>
+         <element>Ancient world</element>
+         <element>Paleontology</element>
+         <element>Microbiology</element>
+         <element>Humanity</element>
+         <element>MacArthur grant</element>
+      </children>
+      <children_count>10</children_count>
+      <cluster_id>8</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Epidemiology</element>
+         <element>Biotech</element>
+         <element>Disease</element>
+         <element>AIDS</element>
+         <element>Illness</element>
+         <element>DNA</element>
+         <element>Nature</element>
+         <element>Biology</element>
+         <element>Vaccines</element>
+         <element>Pandemic</element>
+         <element>Virus</element>
+         <element>Genetics</element>
+      </children>
+      <children_count>12</children_count>
+      <cluster_id>9</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Global</element>
+         <element>Asia</element>
+         <element>Web</element>
+         <element>Google</element>
+         <element>Internet</element>
+         <element>Law</element>
+         <element>Development</element>
+         <element>Statistics</element>
+         <element>Health</element>
+         <element>China</element>
+         <element>Wikipedia</element>
+      </children>
+      <children_count>11</children_count>
+      <cluster_id>10</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Play</element>
+         <element>Industrial design</element>
+         <element>Gaming</element>
+         <element>Materials</element>
+         <element>Toy</element>
+         <element>Product design</element>
+         <element>Smell</element>
+         <element>Transportation</element>
+      </children>
+      <children_count>8</children_count>
+      <cluster_id>11</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Books</element>
+         <element>Debate</element>
+         <element>Poetry</element>
+         <element>Book</element>
+         <element>Literature</element>
+         <element>Language</element>
+         <element>Children</element>
+         <element>Creativity</element>
+         <element>Social change</element>
+         <element>Spoken word</element>
+         <element>Library</element>
+         <element>One Laptop Per Child</element>
+         <element>Writing</element>
+      </children>
+      <children_count>13</children_count>
+      <cluster_id>12</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Brand</element>
+         <element>Consumerism</element>
+         <element>Advertising</element>
+         <element>Business</element>
+         <element>Shopping</element>
+         <element>Film</element>
+         <element>Humor</element>
+         <element>Plastic</element>
+         <element>Fashion</element>
+      </children>
+      <children_count>9</children_count>
+      <cluster_id>13</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Corruption</element>
+         <element>Democracy</element>
+         <element>Big problems</element>
+         <element>Europe</element>
+         <element>News</element>
+         <element>Journalism</element>
+         <element>Government</element>
+         <element>World cultures</element>
+         <element>Money</element>
+         <element>Interview</element>
+         <element>Social media</element>
+      </children>
+      <children_count>11</children_count>
+      <cluster_id>14</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Population</element>
+         <element>Map</element>
+         <element>Nanoscale</element>
+         <element>Microsoft</element>
+         <element>Interface design</element>
+         <element>Data</element>
+         <element>Demo</element>
+         <element>Online video</element>
+         <element>Computers</element>
+         <element>Physics</element>
+         <element>Presentation</element>
+         <element>Prediction</element>
+         <element>Software</element>
+         <element>Visualizations</element>
+         <element>Urban planning</element>
+         <element>Simplicity</element>
+      </children>
+      <children_count>16</children_count>
+      <cluster_id>15</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Crime</element>
+         <element>Evil</element>
+         <element>Leadership</element>
+         <element>Conducting</element>
+         <element>Happiness</element>
+         <element>Prison</element>
+         <element>Motivation</element>
+      </children>
+      <children_count>7</children_count>
+      <cluster_id>16</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Illusion</element>
+         <element>Open-source</element>
+         <element>Green</element>
+         <element>Innovation</element>
+         <element>Museums</element>
+         <element>Architecture</element>
+         <element>Novel</element>
+         <element>Collaboration</element>
+         <element>Glacier</element>
+         <element>Sustainability</element>
+         <element>Environment</element>
+         <element>Magic</element>
+         <element>Art</element>
+         <element>Cities</element>
+         <element>New York</element>
+         <element>Climate change</element>
+         <element>Invention</element>
+         <element>Africa</element>
+         <element>Skateboarding</element>
+         <element>Water</element>
+         <element>Typography</element>
+         <element>Photography</element>
+         <element>Race</element>
+         <element>Engineering</element>
+      </children>
+      <children_count>24</children_count>
+      <cluster_id>17</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Cancer</element>
+         <element>Chemistry</element>
+         <element>Aging</element>
+         <element>Complexity</element>
+         <element>Curiosity</element>
+         <element>Math</element>
+      </children>
+      <children_count>6</children_count>
+      <cluster_id>18</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Space</element>
+         <element>Exploration</element>
+         <element>Adventure</element>
+         <element>Science</element>
+         <element>Universe</element>
+         <element>Life</element>
+      </children>
+      <children_count>6</children_count>
+      <cluster_id>19</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Brain</element>
+         <element>Entrepreneur</element>
+         <element>Philanthropy</element>
+         <element>Psychology</element>
+         <element>Cognitive science</element>
+         <element>Arts</element>
+         <element>Comedy</element>
+         <element>Dance</element>
+         <element>Activism</element>
+         <element>Beauty</element>
+         <element>Education</element>
+         <element>Design</element>
+         <element>Culture</element>
+         <element>Food</element>
+         <element>Medicine</element>
+         <element>Technology</element>
+         <element>Society</element>
+         <element>Philosophy</element>
+         <element>Parenting</element>
+         <element>Evolution</element>
+         <element>Storytelling</element>
+         <element>History</element>
+      </children>
+      <children_count>22</children_count>
+      <cluster_id>20</cluster_id>
+   </element>
+   <element>
+      <children>
+         <element>Peace</element>
+         <element>Violence</element>
+         <element>War</element>
+         <element>Politics</element>
+         <element>Global issues</element>
+         <element>Poverty</element>
+         <element>Economics</element>
+         <element>Women</element>
+         <element>Marketing</element>
+         <element>Communication</element>
+         <element>Media</element>
+         <element>Community</element>
+         <element>Entertainment</element>
+         <element>Music</element>
+         <element>Performance</element>
+      </children>
+      <children_count>15</children_count>
+      <cluster_id>21</cluster_id>
+   </element>
+</root>

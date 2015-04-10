@@ -1,0 +1,13 @@
+rule_id,from,to,support,confidence,lift
+331,"compassion,religion",charter for compassion,0.003450259,1,217.375
+1561,"compassion,global issues,religion",charter for compassion,0.002875216,1,217.375
+339,"disaster relief,TEDx",natural disaster,0.002875216,0.714285714,177.4489796
+342,"disaster relief,global issues",natural disaster,0.002875216,0.714285714,177.4489796
+1557,"astronomy,physics,science",dark matter,0.002300173,0.5,173.9
+334,"compassion,global issues",charter for compassion,0.003450259,0.75,163.03125
+466,"culture,personal growth",potential,0.002300173,0.8,154.5777778
+369,"biology,brain",neurology,0.002300173,0.666666667,128.8148148
+1587,"education,feminism,women",yesallwomen,0.002300173,0.666666667,128.8148148
+330,"charter for compassion,religion",compassion,0.003450259,1,124.2142857
+333,"charter for compassion,global issues",compassion,0.003450259,1,124.2142857
+601,"love,sex",relationships,0.002300173,1,124.2142857
