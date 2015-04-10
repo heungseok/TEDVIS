@@ -1,0 +1,2065 @@
+rule_id,from,to,support,confidence,lift
+331,"compassion,religion",charter for compassion,0.003450259,1,217.375
+1561,"compassion,global issues,religion",charter for compassion,0.002875216,1,217.375
+339,"disaster relief,TEDx",natural disaster,0.002875216,0.714285714,177.4489796
+342,"disaster relief,global issues",natural disaster,0.002875216,0.714285714,177.4489796
+1557,"astronomy,physics,science",dark matter,0.002300173,0.5,173.9
+334,"compassion,global issues",charter for compassion,0.003450259,0.75,163.03125
+466,"culture,personal growth",potential,0.002300173,0.8,154.5777778
+369,"biology,brain",neurology,0.002300173,0.666666667,128.8148148
+1587,"education,feminism,women",yesallwomen,0.002300173,0.666666667,128.8148148
+330,"charter for compassion,religion",compassion,0.003450259,1,124.2142857
+333,"charter for compassion,global issues",compassion,0.003450259,1,124.2142857
+601,"love,sex",relationships,0.002300173,1,124.2142857
+1560,"charter for compassion,global issues,religion",compassion,0.002875216,1,124.2142857
+2042,"arts,culture,entertainment,music",conducting,0.002300173,0.5,124.2142857
+491,"technology,terrorism",security,0.002875216,0.833333333,120.7638889
+1605,"global issues,technology,terrorism",security,0.002300173,0.8,115.9333333
+420,"education,feminism",yesallwomen,0.002300173,0.571428571,110.4126984
+422,"education,women",yesallwomen,0.002300173,0.571428571,110.4126984
+26,charter for compassion,compassion,0.004025302,0.875,108.6875
+27,compassion,charter for compassion,0.004025302,0.5,108.6875
+32,natural disaster,disaster relief,0.004025302,1,108.6875
+64,protests,Egypt,0.002875216,0.625,108.6875
+65,Egypt,protests,0.002875216,0.5,108.6875
+338,"natural disaster,TEDx",disaster relief,0.002875216,1,108.6875
+341,"global issues,natural disaster",disaster relief,0.002875216,1,108.6875
+1583,"physics,science,universe",String theory,0.002875216,0.555555556,107.345679
+1615,"exploration,technology,universe",Planets,0.002300173,0.666666667,105.3939394
+419,"education,yesallwomen",feminism,0.002300173,1,102.2941176
+1586,"education,women,yesallwomen",feminism,0.002300173,1,102.2941176
+411,"crime,culture",prison,0.002300173,0.571428571,99.37142857
+533,"mental health,TEDx",depression,0.002300173,0.8,99.37142857
+2047,"exploration,science,space,technology",Planets,0.002875216,0.625,98.80681818
+30,LGBT,gender,0.002300173,0.666666667,96.61111111
+388,"business,choice",decision making,0.002300173,0.5,96.61111111
+1623,"exploration,space,technology",Planets,0.003450259,0.6,94.85454545
+465,"culture,potential",personal growth,0.002300173,0.8,92.74666667
+579,"exploration,universe",Planets,0.002300173,0.571428571,90.33766234
+518,"brain,philosophy",consciousness,0.002300173,0.666666667,89.17948718
+1619,"exploration,science,space",Planets,0.002875216,0.555555556,87.82828283
+699,"education,women",feminism,0.003450259,0.857142857,87.68067227
+97,guitar,singer,0.002300173,0.5,86.95
+583,"exploration,space",Planets,0.003450259,0.545454545,86.23140496
+651,"biodiversity,environment",biosphere,0.002875216,0.625,83.60576923
+535,"culture,mental health",depression,0.002300173,0.666666667,82.80952381
+387,"business,decision making",choice,0.002300173,0.8,81.83529412
+561,"Africa,health",AIDS,0.002875216,0.555555556,80.50925926
+125,yesallwomen,feminism,0.004025302,0.777777778,79.5620915
+417,"women,yesallwomen",feminism,0.004025302,0.777777778,79.5620915
+457,"performance,storytelling",theater,0.002300173,0.5,79.04545455
+515,"design,toy",play,0.002300173,0.5,79.04545455
+708,"development,philanthropy",investment,0.002300173,0.666666667,77.28888889
+1664,"development,global issues,philanthropy",investment,0.002300173,0.666666667,77.28888889
+514,"design,play",toy,0.002300173,0.571428571,76.43956044
+604,"culture,love",relationships,0.003450259,0.6,74.52857143
+489,"global issues,security",terrorism,0.002300173,0.8,73.22105263
+1604,"global issues,security,technology",terrorism,0.002300173,0.8,73.22105263
+322,"dark matter,physics",astronomy,0.002300173,1,72.45833333
+692,"animals,exploration",fish,0.002300173,0.666666667,72.45833333
+1556,"dark matter,physics,science",astronomy,0.002300173,1,72.45833333
+1653,"exploration,oceans,science",fish,0.002300173,0.666666667,72.45833333
+607,"culture,sex",relationships,0.002875216,0.555555556,69.00793651
+1596,"fish,oceans,science",mission blue,0.002875216,0.5,66.88461538
+16,failure,success,0.002300173,0.571428571,66.24761905
+531,"brain,depression",mental health,0.002300173,0.8,66.24761905
+532,"depression,TEDx",mental health,0.002300173,0.8,66.24761905
+534,"culture,depression",mental health,0.002300173,0.8,66.24761905
+451,"entertainment,illusion",magic,0.002875216,0.555555556,64.40740741
+498,"corruption,politics",democracy,0.002300173,0.8,63.23636364
+648,"animals,biosphere",biodiversity,0.002875216,1,62.10714286
+652,"biology,biosphere",biodiversity,0.002300173,1,62.10714286
+1636,"Asia,economics,global issues",china,0.002300173,0.5,62.10714286
+736,"economics,health",statistics,0.002300173,0.666666667,61.01754386
+440,"bees,science",insects,0.002300173,0.8,60.48695652
+182,depression,mental health,0.005750431,0.714285714,59.14965986
+663,"business,women",women in business,0.002300173,0.571428571,58.45378151
+18,dark matter,astronomy,0.002300173,0.8,57.96666667
+31,LGBT,inequality,0.002300173,0.666666667,57.96666667
+324,"dark matter,science",astronomy,0.002300173,0.8,57.96666667
+743,"children,youth",parenting,0.002875216,0.625,57.20394737
+101,decision making,choice,0.002875216,0.555555556,56.83006536
+410,"culture,prison",crime,0.002300173,0.8,55.648
+474,"astronomy,time",universe,0.002300173,0.8,55.648
+603,"culture,relationships",love,0.003450259,0.666666667,55.20634921
+627,"china,economics",Asia,0.002300173,0.666666667,55.20634921
+1635,"china,economics,global issues",Asia,0.002300173,0.666666667,55.20634921
+680,"business,transportation",cars,0.002300173,0.5,54.34375
+685,"exploration,oceans",fish,0.002300173,0.5,54.34375
+746,"peace,terrorism",violence,0.002300173,0.8,53.50769231
+344,"NASA,technology",space,0.002300173,1,51.14705882
+610,"food,health",agriculture,0.002300173,0.5,51.14705882
+1003,"data,design",visualizations,0.002300173,1,51.14705882
+1677,"culture,happiness,psychology",choice,0.002300173,0.5,51.14705882
+144,bees,insects,0.003450259,0.666666667,50.4057971
+817,"collaboration,invention",open source,0.002300173,0.666666667,50.4057971
+11,atheism,religion,0.002875216,1,49.68571429
+120,cosmos,universe,0.002875216,0.714285714,49.68571429
+481,"physics,time",universe,0.002875216,0.714285714,49.68571429
+510,"global issues,God",religion,0.002300173,1,49.68571429
+512,"culture,God",religion,0.003450259,1,49.68571429
+622,"faith,global issues",religion,0.004025302,1,49.68571429
+679,"business,cars",transportation,0.002300173,0.8,49.68571429
+1632,"culture,faith,global issues",religion,0.002300173,1,49.68571429
+475,"time,universe",astronomy,0.002300173,0.666666667,48.30555556
+600,"relationships,sex",love,0.002300173,0.571428571,47.31972789
+44,extraterrestrial life,universe,0.002300173,0.666666667,46.37333333
+408,"global issues,prison",crime,0.002300173,0.666666667,46.37333333
+413,"cosmos,science",universe,0.002300173,0.666666667,46.37333333
+1601,"physics,science,time",universe,0.002300173,0.666666667,46.37333333
+172,God,religion,0.005750431,0.909090909,45.16883117
+858,"design,energy",alternative energy,0.002300173,0.571428571,45.16883117
+760,"global issues,third world",development,0.002875216,1,44.58974359
+1686,"business,global issues,third world",development,0.002300173,1,44.58974359
+483,"science,time",universe,0.002875216,0.625,43.475
+213,faith,religion,0.007475561,0.866666667,43.06095238
+218,biosphere,biodiversity,0.005175388,0.692307692,42.99725275
+707,"development,investment",philanthropy,0.002300173,0.666666667,42.9382716
+1663,"development,global issues,investment",philanthropy,0.002300173,0.666666667,42.9382716
+329,"charter for compassion,compassion",religion,0.003450259,0.857142857,42.5877551
+623,"culture,faith",religion,0.003450259,0.857142857,42.5877551
+1727,"politics,violence,war",peace,0.002300173,0.8,42.15757576
+114,prison,crime,0.003450259,0.6,41.736
+162,time,universe,0.003450259,0.6,41.736
+205,relationships,love,0.004025302,0.5,41.4047619
+214,china,Asia,0.004025302,0.5,41.4047619
+336,"charter for compassion,global issues",religion,0.002875216,0.833333333,41.4047619
+477,"physics,time",astronomy,0.002300173,0.571428571,41.4047619
+599,"love,relationships",sex,0.002300173,0.571428571,41.4047619
+609,"agriculture,health",food,0.002300173,1,41.4047619
+629,"china,global issues",Asia,0.003450259,0.5,41.4047619
+653,"biosphere,science",biodiversity,0.002300173,0.666666667,41.4047619
+682,"cars,design",transportation,0.002300173,0.666666667,41.4047619
+828,"physics,space",astronomy,0.002300173,0.571428571,41.4047619
+1559,"charter for compassion,compassion,global issues",religion,0.002875216,0.833333333,41.4047619
+38,NASA,space,0.002300173,0.8,40.91764706
+810,"crime,technology",Internet,0.002300173,0.8,40.91764706
+945,"creativity,performance",live music,0.002300173,0.8,40.91764706
+1749,"creativity,music,performance",live music,0.002300173,0.8,40.91764706
+861,"alternative energy,technology",energy,0.006325474,0.846153846,40.87393162
+606,"culture,relationships",sex,0.002875216,0.555555556,40.25462963
+1718,"alternative energy,science,technology",energy,0.002875216,0.833333333,40.25462963
+109,String theory,physics,0.005175388,1,39.52272727
+321,"astronomy,dark matter",physics,0.002300173,1,39.52272727
+395,"String theory,universe",physics,0.002875216,1,39.52272727
+400,"science,String theory",physics,0.005175388,1,39.52272727
+1555,"astronomy,dark matter,science",physics,0.002300173,1,39.52272727
+1581,"science,String theory,universe",physics,0.002875216,1,39.52272727
+650,"biosphere,environment",biodiversity,0.002875216,0.625,38.81696429
+60,submarine,oceans,0.004025302,1,38.64444444
+108,String theory,universe,0.002875216,0.555555556,38.64444444
+158,mission blue,oceans,0.007475561,1,38.64444444
+350,"science,submarine",oceans,0.002875216,1,38.64444444
+396,"physics,String theory",universe,0.002875216,0.555555556,38.64444444
+398,"science,String theory",universe,0.002875216,0.555555556,38.64444444
+467,"fish,mission blue",oceans,0.002875216,1,38.64444444
+469,"global issues,mission blue",oceans,0.002300173,1,38.64444444
+471,"mission blue,science",oceans,0.006900518,1,38.64444444
+472,"mission blue,technology",oceans,0.002300173,1,38.64444444
+1582,"physics,science,String theory",universe,0.002875216,0.555555556,38.64444444
+1595,"fish,mission blue,science",oceans,0.002875216,1,38.64444444
+1598,"mission blue,science,technology",oceans,0.002300173,1,38.64444444
+1652,"exploration,fish,science",oceans,0.002300173,1,38.64444444
+582,"exploration,Planets",space,0.003450259,0.75,38.36029412
+585,"Planets,science",space,0.003450259,0.75,38.36029412
+1622,"exploration,Planets,technology",space,0.003450259,0.75,38.36029412
+1626,"Planets,science,technology",space,0.003450259,0.75,38.36029412
+1828,"business,global issues,women",poverty,0.002300173,0.8,37.6
+28,charter for compassion,religion,0.003450259,0.75,37.26428571
+198,Planets,space,0.004600345,0.727272727,37.19786096
+587,"Planets,technology",space,0.004600345,0.727272727,37.19786096
+1618,"exploration,Planets,science",space,0.002875216,0.714285714,36.53361345
+2046,"exploration,Planets,science,technology",space,0.002875216,0.714285714,36.53361345
+161,time,astronomy,0.002875216,0.5,36.22916667
+206,relationships,sex,0.004025302,0.5,36.22916667
+479,"science,time",astronomy,0.002300173,0.5,36.22916667
+706,"investment,philanthropy",development,0.002300173,0.8,35.67179487
+758,"business,third world",development,0.002300173,0.8,35.67179487
+1662,"global issues,investment,philanthropy",development,0.002300173,0.8,35.67179487
+41,productivity,work,0.002300173,0.571428571,35.48979592
+745,"terrorism,violence",peace,0.002300173,0.666666667,35.13131313
+578,"exploration,Planets",universe,0.002300173,0.5,34.78
+655,"DNA,science",genetics,0.002875216,0.5,34.78
+657,"DNA,technology",genetics,0.002300173,0.5,34.78
+825,"astronomy,physics",universe,0.002875216,0.5,34.78
+1614,"exploration,Planets,technology",universe,0.002300173,0.5,34.78
+1648,"DNA,science,technology",genetics,0.002300173,0.5,34.78
+1706,"astronomy,physics,science",universe,0.002300173,0.5,34.78
+133,trees,biodiversity,0.002875216,0.555555556,34.50396825
+859,"alternative energy,science",energy,0.002875216,0.714285714,34.50396825
+975,"animals,environment",biodiversity,0.002875216,0.555555556,34.50396825
+134,trees,nature,0.003450259,0.666666667,34.09803922
+590,"Planets,science",exploration,0.004025302,0.875,33.81388889
+1629,"Planets,science,technology",exploration,0.004025302,0.875,33.81388889
+1728,"peace,politics,war",violence,0.002300173,0.5,33.44230769
+1783,"global issues,health,science",disease,0.002875216,0.555555556,33.31417625
+856,"alternative energy,environment",climate change,0.002300173,0.666666667,33.12380952
+1794,"environment,global issues,technology",climate change,0.002300173,0.666666667,33.12380952
+415,"cosmos,science",physics,0.002875216,0.833333333,32.93560606
+480,"time,universe",physics,0.002875216,0.833333333,32.93560606
+126,yesallwomen,women,0.005175388,1,32.2037037
+416,"feminism,yesallwomen",women,0.004025302,1,32.2037037
+421,"education,yesallwomen",women,0.002300173,1,32.2037037
+423,"global issues,yesallwomen",women,0.002300173,1,32.2037037
+688,"fish,science",oceans,0.005750431,0.833333333,32.2037037
+700,"feminism,global issues",women,0.002875216,1,32.2037037
+857,"alternative energy,design",energy,0.002300173,0.666666667,32.2037037
+1585,"education,feminism,yesallwomen",women,0.002300173,1,32.2037037
+1617,"Planets,science,space",exploration,0.002875216,0.833333333,32.2037037
+1667,"business,global issues,investment",philanthropy,0.002300173,0.5,32.2037037
+2045,"Planets,science,space,technology",exploration,0.002875216,0.833333333,32.2037037
+985,"computers,global issues",Internet,0.002875216,0.625,31.96691176
+596,"AI,technology",robots,0.004025302,0.583333333,31.70052083
+19,dark matter,physics,0.002300173,0.8,31.61818182
+326,"dark matter,science",physics,0.002300173,0.8,31.61818182
+476,"astronomy,time",physics,0.002300173,0.8,31.61818182
+1600,"science,time,universe",physics,0.002300173,0.8,31.61818182
+202,AI,robots,0.004600345,0.571428571,31.05357143
+230,cars,transportation,0.004600345,0.5,31.05357143
+496,"compassion,global issues",religion,0.002875216,0.625,31.05357143
+577,"Planets,universe",exploration,0.002300173,0.8,30.91555556
+684,"exploration,fish",oceans,0.002300173,0.8,30.91555556
+689,"fish,technology",oceans,0.002300173,0.8,30.91555556
+1613,"Planets,technology,universe",exploration,0.002300173,0.8,30.91555556
+1655,"animals,fish,science",oceans,0.002300173,0.8,30.91555556
+1657,"fish,science,technology",oceans,0.002300173,0.8,30.91555556
+268,alternative energy,energy,0.008050604,0.636363636,30.73989899
+318,"entertainment,wunderkind",performance,0.002300173,1,30.50877193
+456,"storytelling,theater",performance,0.002300173,1,30.50877193
+569,"entertainment,literature",poetry,0.002300173,0.571428571,30.11255411
+894,"politics,violence",peace,0.002300173,0.571428571,30.11255411
+994,"biology,health",disease,0.003450259,0.5,29.98275862
+949,"creativity,music",live music,0.004025302,0.583333333,29.83578431
+762,"technology,third world",development,0.002300173,0.666666667,29.72649573
+1121,"economics,poverty",development,0.002300173,0.666666667,29.72649573
+485,"science,time",physics,0.003450259,0.75,29.64204545
+40,spoken word,poetry,0.002875216,0.555555556,29.27609428
+890,"law,technology",Internet,0.002300173,0.571428571,29.22689076
+232,fish,oceans,0.006900518,0.75,28.98333333
+581,"Planets,space",exploration,0.003450259,0.75,28.98333333
+1621,"Planets,space,technology",exploration,0.003450259,0.75,28.98333333
+893,"violence,war",peace,0.003450259,0.545454545,28.74380165
+234,feminism,women,0.008625647,0.882352941,28.41503268
+1760,"creativity,entertainment,music",live music,0.002875216,0.555555556,28.41503268
+121,cosmos,physics,0.002875216,0.714285714,28.23051948
+701,"culture,feminism",women,0.004025302,0.875,28.17824074
+199,Planets,exploration,0.004600345,0.727272727,28.10505051
+592,"Planets,technology",exploration,0.004600345,0.727272727,28.10505051
+1670,"business,global issues,investment",development,0.002875216,0.625,27.86858974
+1676,"choice,culture,psychology",happiness,0.002300173,0.8,27.824
+163,time,physics,0.004025302,0.7,27.66590909
+698,"education,feminism",women,0.003450259,0.857142857,27.6031746
+1790,"environment,global issues,science",climate change,0.002875216,0.555555556,27.6031746
+1755,"entertainment,music,performance",live music,0.005750431,0.526315789,26.91950464
+1120,"development,women",poverty,0.002300173,0.571428571,26.85714286
+1127,"business,women",poverty,0.002300173,0.571428571,26.85714286
+571,"culture,literature",poetry,0.002300173,0.5,26.34848485
+1726,"peace,politics,violence",war,0.002300173,1,26.34848485
+1104,"business,environment",sustainability,0.003450259,0.6,26.085
+982,"entertainment,humanity",humor,0.002875216,1,25.95522388
+1206,"cities,creativity",architecture,0.002875216,0.833333333,25.87797619
+1775,"Internet,technology,TEDx",computers,0.002300173,0.8,25.76296296
+146,piano,live music,0.002875216,0.5,25.57352941
+375,"biomechanics,design",animals,0.002300173,1,25.57352941
+1576,"biomechanics,design,technology",animals,0.002300173,1,25.57352941
+1119,"poverty,women",development,0.002300173,0.571428571,25.47985348
+1818,"business,entrepreneur,global issues",development,0.002300173,0.571428571,25.47985348
+507,"bacteria,science",evolution,0.002300173,0.666666667,25.20289855
+1082,"entrepreneur,invention",innovation,0.002875216,0.714285714,24.84285714
+1099,"environment,green",sustainability,0.004600345,0.571428571,24.84285714
+1163,"development,invention",innovation,0.002875216,0.714285714,24.84285714
+1798,"environment,science,technology",climate change,0.002300173,0.5,24.84285714
+1854,"cities,creativity,design",architecture,0.002300173,0.8,24.84285714
+1122,"business,poverty",development,0.002875216,0.555555556,24.77207977
+1825,"business,global issues,poverty",development,0.002875216,0.555555556,24.77207977
+1840,"Africa,economics,global issues",development,0.002875216,0.555555556,24.77207977
+1843,"Africa,business,global issues",development,0.002875216,0.555555556,24.77207977
+721,"choice,happiness",psychology,0.002300173,1,24.49295775
+1642,"health,medicine,public health",health care,0.002875216,1,24.49295775
+1675,"choice,culture,happiness",psychology,0.002300173,1,24.49295775
+1867,"brain,happiness,science",psychology,0.002875216,1,24.49295775
+8,wunderkind,performance,0.002300173,0.8,24.40701754
+714,"global issues,investment",development,0.003450259,0.545454545,24.32167832
+1031,"peace,politics",war,0.004600345,0.888888889,23.42087542
+54,Buddhism,happiness,0.002300173,0.666666667,23.18666667
+722,"choice,psychology",happiness,0.002300173,0.666666667,23.18666667
+1125,"invention,poverty",innovation,0.002300173,0.666666667,23.18666667
+1804,"global issues,peace,politics",war,0.004025302,0.875,23.05492424
+984,"global issues,Internet",computers,0.002875216,0.714285714,23.0026455
+1705,"astronomy,science,universe",physics,0.002300173,0.571428571,22.58441558
+245,third world,development,0.004600345,0.5,22.29487179
+1166,"Africa,economics",development,0.002875216,0.5,22.29487179
+1742,"business,global issues,philanthropy",development,0.002875216,0.5,22.29487179
+686,"animals,fish",oceans,0.002300173,0.571428571,22.08253968
+691,"animals,fish",exploration,0.002300173,0.571428571,22.08253968
+1811,"science,space,technology",exploration,0.004600345,0.571428571,22.08253968
+742,"parenting,youth",children,0.002875216,1,22.01265823
+1138,"biology,environment",life,0.002300173,0.5,21.7375
+1124,"innovation,poverty",invention,0.002300173,1,21.4691358
+1162,"development,innovation",invention,0.002875216,1,21.4691358
+348,"technology,wikipedia",collaboration,0.002300173,0.8,21.07878788
+816,"invention,open source",collaboration,0.002300173,0.8,21.07878788
+819,"culture,open source",collaboration,0.002300173,0.8,21.07878788
+899,"culture,violence",war,0.002300173,0.8,21.07878788
+1683,"global issues,politics,terrorism",war,0.002300173,0.8,21.07878788
+1732,"global issues,politics,violence",war,0.002300173,0.8,21.07878788
+1734,"culture,global issues,violence",war,0.002300173,0.8,21.07878788
+35,obesity,food,0.002300173,0.5,20.70238095
+176,garden,food,0.003450259,0.5,20.70238095
+690,"exploration,fish",animals,0.002300173,0.8,20.45882353
+696,"fish,technology",animals,0.002300173,0.8,20.45882353
+1660,"fish,science,technology",animals,0.002300173,0.8,20.45882353
+1721,"culture,design,transportation",cities,0.002300173,1,19.98850575
+824,"astronomy,universe",physics,0.002875216,0.5,19.76136364
+1834,"arts,culture,global issues",film,0.002300173,0.5,19.76136364
+1915,"arts,global issues,social change",storytelling,0.002300173,1,19.76136364
+2054,"arts,culture,global issues,social change",storytelling,0.002300173,1,19.76136364
+643,"public health,technology",health care,0.002300173,0.8,19.5943662
+1611,"brain,mind,science",psychology,0.002300173,0.8,19.5943662
+1645,"health,public health,technology",health care,0.002300173,0.8,19.5943662
+516,"consciousness,mind",brain,0.002300173,1,19.53932584
+517,"consciousness,philosophy",brain,0.002300173,1,19.53932584
+520,"consciousness,science",brain,0.003450259,1,19.53932584
+1610,"mind,psychology,science",brain,0.002300173,1,19.53932584
+49,news,media,0.002300173,0.5,19.32222222
+855,"alternative energy,climate change",environment,0.002300173,0.8,19.32222222
+1724,"science,technology,universe",exploration,0.002875216,0.5,19.32222222
+1751,"arts,live music,music",performance,0.002875216,0.625,19.06798246
+1255,"brain,happiness",psychology,0.004025302,0.777777778,19.05007825
+1259,"happiness,science",psychology,0.004025302,0.777777778,19.05007825
+839,"biology,genetics",evolution,0.002300173,0.5,18.90217391
+1955,"biology,health,technology",medicine,0.002300173,1,18.90217391
+2064,"biology,health,science,technology",medicine,0.002300173,1,18.90217391
+57,wikipedia,collaboration,0.002875216,0.714285714,18.82034632
+750,"politics,terrorism",war,0.002875216,0.714285714,18.82034632
+896,"politics,violence",war,0.002875216,0.714285714,18.82034632
+1301,"art,global issues",photography,0.002300173,0.666666667,18.69892473
+14,violin,music,0.002875216,1,18.5
+77,plastic,green,0.002300173,0.5,18.5
+320,"entertainment,violin",music,0.002300173,1,18.5
+356,"arts,conducting",music,0.002875216,1,18.5
+360,"conducting,culture",music,0.002300173,1,18.5
+381,"arts,guitar",music,0.002300173,1,18.5
+442,"performance,piano",music,0.002300173,1,18.5
+446,"arts,piano",music,0.002300173,1,18.5
+951,"live music,TEDx",music,0.002300173,1,18.5
+1061,"energy,environment",green,0.002875216,0.5,18.5
+1098,"environment,sustainability",green,0.004600345,0.5,18.5
+1184,"business,environment",green,0.002875216,0.5,18.5
+1246,"creativity,performance",music,0.002875216,1,18.5
+1564,"arts,conducting,entertainment",music,0.002875216,1,18.5
+1567,"arts,conducting,culture",music,0.002300173,1,18.5
+1570,"conducting,culture,entertainment",music,0.002300173,1,18.5
+1579,"arts,entertainment,guitar",music,0.002300173,1,18.5
+1589,"entertainment,performance,piano",music,0.002300173,1,18.5
+1593,"arts,entertainment,piano",music,0.002300173,1,18.5
+1747,"creativity,live music,performance",music,0.002300173,1,18.5
+1750,"arts,live music,performance",music,0.002875216,1,18.5
+1859,"creativity,entertainment,performance",music,0.002300173,1,18.5
+2041,"arts,conducting,culture,entertainment",music,0.002300173,1,18.5
+2049,"arts,entertainment,live music,performance",music,0.002300173,1,18.5
+192,AIDS,Africa,0.004600345,0.666666667,18.4021164
+733,"global issues,statistics",Africa,0.002300173,0.666666667,18.4021164
+983,"Internet,TEDx",computers,0.002300173,0.571428571,18.4021164
+1167,"development,health",Africa,0.002300173,0.666666667,18.4021164
+1274,"activism,TEDx",women,0.002300173,0.571428571,18.4021164
+1870,"children,education,technology",computers,0.002300173,0.571428571,18.4021164
+744,"parenting,TEDx",children,0.002300173,0.8,17.61012658
+892,"peace,violence",war,0.003450259,0.666666667,17.56565657
+1340,"history,politics",war,0.002300173,0.666666667,17.56565657
+1730,"global issues,peace,violence",war,0.002300173,0.666666667,17.56565657
+639,"medicine,public health",health care,0.002875216,0.714285714,17.49496982
+1748,"creativity,live music,music",performance,0.002300173,0.571428571,17.43358396
+2050,"arts,entertainment,live music,music",performance,0.002300173,0.571428571,17.43358396
+942,"live music,performance",music,0.008050604,0.933333333,17.26666667
+560,"AIDS,health",Africa,0.002875216,0.625,17.25198413
+1258,"business,happiness",psychology,0.004025302,0.7,17.14507042
+1773,"biodiversity,global issues,science",animals,0.002300173,0.666666667,17.04901961
+946,"arts,live music",performance,0.002875216,0.555555556,16.94931774
+898,"global issues,violence",war,0.005175388,0.642857143,16.93831169
+1753,"entertainment,live music,performance",music,0.005750431,0.909090909,16.81818182
+1693,"culture,social media,technology",social change,0.002300173,0.666666667,16.80193237
+2055,"arts,culture,global issues,storytelling",social change,0.002300173,0.666666667,16.80193237
+175,consciousness,brain,0.006325474,0.846153846,16.53327571
+448,"entertainment,piano",music,0.004600345,0.888888889,16.44444444
+950,"arts,live music",music,0.004600345,0.888888889,16.44444444
+641,"health,public health",health care,0.004600345,0.666666667,16.3286385
+799,"brain,self",psychology,0.002300173,0.666666667,16.3286385
+1256,"economics,happiness",psychology,0.002300173,0.666666667,16.3286385
+523,"mind,psychology",brain,0.002875216,0.833333333,16.28277154
+98,guitar,music,0.004025302,0.875,16.1875
+948,"creativity,live music",music,0.004025302,0.875,16.1875
+1762,"arts,entertainment,live music",music,0.004025302,0.875,16.1875
+1097,"green,sustainability",environment,0.004600345,0.666666667,16.10185185
+1180,"architecture,green",cities,0.002300173,0.8,15.9908046
+974,"biodiversity,environment",animals,0.002875216,0.625,15.98345588
+68,conducting,music,0.003450259,0.857142857,15.85714286
+943,"live music,music",performance,0.008050604,0.518518519,15.81936322
+455,"performance,theater",storytelling,0.002300173,0.8,15.80909091
+1397,"arts,social change",storytelling,0.002300173,0.8,15.80909091
+1919,"arts,culture,social change",storytelling,0.002300173,0.8,15.80909091
+368,"biology,neurology",brain,0.002300173,0.8,15.63146067
+1101,"design,sustainability",architecture,0.003450259,0.5,15.52678571
+1181,"cities,green",architecture,0.002300173,0.5,15.52678571
+1204,"design,environment",architecture,0.002875216,0.5,15.52678571
+358,"conducting,entertainment",music,0.002875216,0.833333333,15.41666667
+383,"entertainment,guitar",music,0.002875216,0.833333333,15.41666667
+954,"live music,technology",music,0.002875216,0.833333333,15.41666667
+1250,"performance,technology",music,0.002875216,0.833333333,15.41666667
+1759,"creativity,entertainment,live music",music,0.002875216,0.833333333,15.41666667
+563,"AIDS,global issues",Africa,0.002875216,0.555555556,15.335097
+1081,"entrepreneur,innovation",invention,0.002875216,0.714285714,15.335097
+1839,"development,economics,global issues",Africa,0.002875216,0.555555556,15.335097
+443,"music,piano",performance,0.002300173,0.5,15.25438596
+944,"creativity,live music",performance,0.002300173,0.5,15.25438596
+1590,"entertainment,music,piano",performance,0.002300173,0.5,15.25438596
+1754,"entertainment,live music,music",performance,0.005750431,0.5,15.25438596
+1757,"arts,entertainment,live music",performance,0.002300173,0.5,15.25438596
+431,"heart health,science",medicine,0.002300173,0.8,15.12173913
+1962,"health,technology,TEDx",medicine,0.002300173,0.8,15.12173913
+135,pollution,environment,0.002875216,0.625,15.09548611
+1060,"energy,green",environment,0.002875216,0.625,15.09548611
+487,"global issues,military",war,0.002300173,0.571428571,15.05627706
+219,biosphere,environment,0.004600345,0.615384615,14.86324786
+433,"heart health,TEDx",health,0.002300173,1,14.86324786
+640,"health care,public health",health,0.004600345,1,14.86324786
+646,"public health,technology",health,0.002875216,1,14.86324786
+993,"biology,disease",health,0.003450259,1,14.86324786
+1074,"arts,engineering",art,0.002300173,1,14.86324786
+1640,"health care,medicine,public health",health,0.002875216,1,14.86324786
+1644,"health care,public health,technology",health,0.002300173,1,14.86324786
+1779,"biology,disease,science",health,0.002300173,1,14.86324786
+1978,"arts,culture,global issues",storytelling,0.003450259,0.75,14.82102273
+147,piano,music,0.004600345,0.8,14.8
+953,"entertainment,live music",music,0.011500863,0.8,14.8
+1764,"entertainment,live music,technology",music,0.002300173,0.8,14.8
+1965,"design,health,technology",medicine,0.004025302,0.777777778,14.70169082
+277,live music,music,0.015526164,0.794117647,14.69117647
+814,"culture,youth",children,0.002300173,0.666666667,14.67510549
+1639,"china,culture,global issues",economics,0.002300173,0.8,14.64421053
+104,iraq,war,0.002875216,0.555555556,14.63804714
+377,"biomechanics,technology",animals,0.002300173,0.571428571,14.61344538
+976,"biodiversity,global issues",animals,0.002300173,0.571428571,14.61344538
+1350,"biology,children",animals,0.002300173,0.571428571,14.61344538
+1916,"arts,global issues,storytelling",social change,0.002300173,0.571428571,14.40165631
+647,"biodiversity,biosphere",animals,0.002875216,0.555555556,14.20751634
+1885,"health,health care,technology",medicine,0.005175388,0.75,14.17663043
+346,"birds,science",biology,0.002300173,0.8,14.05252525
+402,"health,microbiology",biology,0.002300173,0.8,14.05252525
+805,"science,sex",biology,0.002300173,0.8,14.05252525
+1349,"animals,children",biology,0.002300173,0.8,14.05252525
+876,"arts,TED Prize",photography,0.002300173,0.5,14.02419355
+526,"mind,science",psychology,0.002300173,0.571428571,13.99597586
+567,"business,success",psychology,0.002300173,0.571428571,13.99597586
+665,"medical research,medicine",health care,0.002300173,0.571428571,13.99597586
+1257,"happiness,TEDx",psychology,0.002300173,0.571428571,13.99597586
+1368,"brain,children",psychology,0.002300173,0.571428571,13.99597586
+1377,"science,storytelling",history,0.002300173,0.571428571,13.99597586
+528,"mind,science",brain,0.002875216,0.714285714,13.95666132
+1866,"happiness,psychology,science",brain,0.002875216,0.714285714,13.95666132
+204,urban planning,cities,0.005175388,0.692307692,13.83819629
+731,"health,statistics",Africa,0.002300173,0.5,13.8015873
+1797,"climate change,science,technology",environment,0.002300173,0.571428571,13.8015873
+1033,"global issues,peace",war,0.007475561,0.52,13.70121212
+111,microbiology,biology,0.004025302,0.777777778,13.66217733
+524,"brain,mind",psychology,0.002875216,0.555555556,13.60719875
+179,mind,brain,0.005175388,0.692307692,13.52722558
+614,"cancer,technology",medicine,0.002875216,0.714285714,13.5015528
+649,"biodiversity,biosphere",environment,0.002875216,0.555555556,13.41820988
+1789,"climate change,global issues,science",environment,0.002875216,0.555555556,13.41820988
+1906,"brain,culture,science",psychology,0.003450259,0.545454545,13.35979513
+598,"design,urban planning",cities,0.002300173,0.666666667,13.3256705
+1107,"culture,sustainability",cities,0.002300173,0.666666667,13.3256705
+1202,"architecture,environment",cities,0.002300173,0.666666667,13.3256705
+2060,"art,arts,culture,design",cities,0.002300173,0.666666667,13.3256705
+438,"entertainment,singer",music,0.002875216,0.714285714,13.21428571
+752,"global issues,terrorism",war,0.004025302,0.5,13.17424242
+1103,"business,sustainability",environment,0.003450259,0.545454545,13.17424242
+1806,"culture,global issues,peace",war,0.003450259,0.5,13.17424242
+1680,"business,choice,culture",economics,0.002875216,0.714285714,13.07518797
+216,public health,health care,0.004600345,0.533333333,13.0629108
+74,neurology,brain,0.003450259,0.666666667,13.02621723
+36,obesity,health,0.004025302,0.875,13.00534188
+1105,"global issues,sustainability",environment,0.004025302,0.538461538,13.00534188
+141,singer,music,0.004025302,0.7,12.95
+2,student,education,0.002875216,1,12.78676471
+86,biomechanics,animals,0.002300173,0.5,12.78676471
+242,parenting,children,0.006325474,0.578947368,12.74417055
+354,"global issues,protests",politics,0.002300173,1,12.60144928
+454,"Europe,global issues",politics,0.003450259,1,12.60144928
+497,"corruption,democracy",politics,0.002300173,1,12.60144928
+765,"democracy,government",politics,0.003450259,1,12.60144928
+768,"democracy,global issues",politics,0.008050604,1,12.60144928
+777,"culture,social media",social change,0.002300173,0.5,12.60144928
+849,"government,war",politics,0.002300173,1,12.60144928
+1050,"global issues,society",social change,0.002300173,0.5,12.60144928
+1324,"biology,health care",medicine,0.002300173,0.666666667,12.60144928
+1462,"design,health",medicine,0.004600345,0.666666667,12.60144928
+1688,"democracy,global issues,government",politics,0.002300173,1,12.60144928
+1690,"culture,democracy,global issues",politics,0.002875216,1,12.60144928
+1881,"biology,health care,science",medicine,0.002300173,0.666666667,12.60144928
+1926,"arts,culture,global issues",social change,0.002300173,0.5,12.60144928
+1952,"biology,health,science",medicine,0.003450259,0.666666667,12.60144928
+1369,"education,psychology",children,0.002300173,0.571428571,12.57866184
+404,"microbiology,science",biology,0.002875216,0.714285714,12.54689755
+1205,"architecture,creativity",cities,0.002875216,0.625,12.49281609
+1959,"medicine,science,TEDx",health,0.002875216,0.833333333,12.38603989
+1313,"entertainment,TED Fellows",music,0.002300173,0.666666667,12.33333333
+170,bacteria,biology,0.004025302,0.7,12.2959596
+425,"design,flight",invention,0.002300173,0.571428571,12.2680776
+551,"business,industrial design",invention,0.002300173,0.571428571,12.2680776
+23,behavioral economics,psychology,0.002300173,0.5,12.24647887
+129,heart health,health care,0.002875216,0.5,12.24647887
+530,"business,money",psychology,0.002300173,0.5,12.24647887
+666,"medical research,technology",health care,0.002300173,0.5,12.24647887
+1338,"storytelling,war",history,0.002300173,0.5,12.24647887
+1886,"health,medicine,technology",health care,0.005175388,0.5,12.24647887
+740,"neuroscience,science",brain,0.005750431,0.625,12.21207865
+390,"culture,decision making",economics,0.002300173,0.666666667,12.20350877
+633,"china,culture",economics,0.002300173,0.666666667,12.20350877
+738,"global issues,statistics",economics,0.002300173,0.666666667,12.20350877
+793,"Asia,politics",economics,0.002300173,0.666666667,12.20350877
+1634,"Asia,china,global issues",economics,0.002300173,0.666666667,12.20350877
+1703,"Asia,global issues,politics",economics,0.002300173,0.666666667,12.20350877
+1102,"sustainability,TEDx",environment,0.002300173,0.5,12.07638889
+1106,"sustainability,technology",environment,0.003450259,0.5,12.07638889
+1183,"cities,green",environment,0.002300173,0.5,12.07638889
+1793,"climate change,global issues,technology",environment,0.002300173,0.5,12.07638889
+247,democracy,politics,0.012075906,0.954545455,12.02865613
+1882,"health,health care,science",medicine,0.004025302,0.636363636,12.02865613
+5,Vaccines,health,0.002300173,0.8,11.89059829
+217,public health,health,0.006900518,0.8,11.89059829
+435,"heart health,science",health,0.002300173,0.8,11.89059829
+645,"global issues,public health",health,0.002300173,0.8,11.89059829
+730,"Africa,statistics",health,0.002300173,0.8,11.89059829
+905,"arts,book",art,0.002300173,0.8,11.89059829
+1879,"arts,design,humor",art,0.002300173,0.8,11.89059829
+1961,"medicine,technology,TEDx",health,0.002300173,0.8,11.89059829
+638,"health care,public health",medicine,0.002875216,0.625,11.8138587
+1641,"health,health care,public health",medicine,0.002875216,0.625,11.8138587
+1960,"health,science,TEDx",medicine,0.002875216,0.625,11.8138587
+240,neuroscience,brain,0.008625647,0.6,11.72359551
+367,"brain,neurology",biology,0.002300173,0.666666667,11.71043771
+509,"bacteria,science",biology,0.002300173,0.666666667,11.71043771
+838,"evolution,genetics",biology,0.002300173,0.666666667,11.71043771
+1137,"environment,life",biology,0.002300173,0.666666667,11.71043771
+1270,"business,innovation",invention,0.003450259,0.545454545,11.71043771
+1862,"arts,entertainment,performance",music,0.005750431,0.625,11.5625
+726,"business,choice",economics,0.002875216,0.625,11.44078947
+1838,"Africa,development,global issues",economics,0.002875216,0.625,11.44078947
+72,Latin America,cities,0.002300173,0.571428571,11.42200328
+870,"culture,transportation",cities,0.002300173,0.571428571,11.42200328
+1853,"architecture,creativity,design",cities,0.002300173,0.571428571,11.42200328
+1945,"business,design,global issues",cities,0.002300173,0.571428571,11.42200328
+130,heart health,medicine,0.003450259,0.6,11.34130435
+1337,"history,war",storytelling,0.002300173,0.571428571,11.29220779
+795,"Asia,global issues",economics,0.004600345,0.615384615,11.26477733
+371,"neurology,science",brain,0.002300173,0.571428571,11.16532905
+1935,"arts,cities,design",art,0.003450259,0.75,11.1474359
+769,"culture,democracy",politics,0.004025302,0.875,11.02626812
+539,"design,toy",children,0.002300173,0.5,11.00632911
+1464,"health,technology",medicine,0.010350776,0.580645161,10.97545582
+1261,"happiness,science",brain,0.002875216,0.555555556,10.85518102
+429,"health,heart health",medicine,0.002300173,0.571428571,10.80124224
+189,industrial design,invention,0.003450259,0.5,10.7345679
+541,"design,toy",invention,0.002300173,0.5,10.7345679
+543,"technology,toy",invention,0.002300173,0.5,10.7345679
+553,"design,industrial design",invention,0.002875216,0.5,10.7345679
+815,"collaboration,open source",invention,0.002300173,0.5,10.7345679
+1905,"culture,psychology,science",brain,0.003450259,0.545454545,10.6578141
+1967,"health,science,technology",medicine,0.005175388,0.5625,10.63247283
+644,"medicine,public health",health,0.002875216,0.714285714,10.61660562
+2015,"arts,design,entertainment",art,0.005750431,0.714285714,10.61660562
+394,"global issues,iraq",politics,0.002875216,0.833333333,10.50120773
+117,Google,economics,0.002300173,0.571428571,10.46015038
+626,"Asia,china",economics,0.002300173,0.571428571,10.46015038
+1328,"health care,science",medicine,0.00920069,0.551724138,10.42878561
+131,heart health,health,0.004025302,0.7,10.4042735
+612,"cancer,science",medicine,0.003450259,0.545454545,10.31027668
+668,"medical research,science",medicine,0.003450259,0.545454545,10.31027668
+246,mental health,brain,0.006325474,0.523809524,10.23488497
+1869,"children,computers,technology",education,0.002300173,0.8,10.22941176
+1903,"Africa,business,global issues",economics,0.002875216,0.555555556,10.16959064
+364,"conducting,culture",arts,0.002300173,1,10.11046512
+501,"entertainment,race",arts,0.002300173,1,10.11046512
+1563,"conducting,entertainment,music",arts,0.002875216,1,10.11046512
+1566,"conducting,culture,music",arts,0.002300173,1,10.11046512
+1573,"conducting,culture,entertainment",arts,0.002300173,1,10.11046512
+1608,"culture,entertainment,race",arts,0.002300173,1,10.11046512
+1768,"entertainment,music,poetry",arts,0.002300173,1,10.11046512
+1914,"global issues,social change,storytelling",arts,0.002300173,1,10.11046512
+1918,"culture,social change,storytelling",arts,0.002300173,1,10.11046512
+1934,"art,cities,design",arts,0.003450259,1,10.11046512
+1937,"art,cities,culture",arts,0.002875216,1,10.11046512
+2040,"conducting,culture,entertainment,music",arts,0.002300173,1,10.11046512
+2053,"culture,global issues,social change,storytelling",arts,0.002300173,1,10.11046512
+2058,"art,cities,culture,design",arts,0.002300173,1,10.11046512
+21,state building,politics,0.002300173,0.8,10.08115942
+328,"global issues,state building",politics,0.002300173,0.8,10.08115942
+463,"Egypt,global issues",politics,0.002300173,0.8,10.08115942
+822,"global issues,leadership",politics,0.002300173,0.8,10.08115942
+303,performance,music,0.017826337,0.543859649,10.06140351
+52,birds,biology,0.002300173,0.571428571,10.03751804
+373,"neurology,science",biology,0.002300173,0.571428571,10.03751804
+1326,"health,health care",medicine,0.010350776,0.529411765,10.00703325
+1415,"design,environment",cities,0.002875216,0.5,9.994252874
+62,museums,art,0.003450259,0.666666667,9.908831909
+193,AIDS,health,0.004600345,0.666666667,9.908831909
+428,"heart health,medicine",health,0.002300173,0.666666667,9.908831909
+565,"AIDS,global issues",health,0.003450259,0.666666667,9.908831909
+991,"disease,medicine",health,0.003450259,0.666666667,9.908831909
+1876,"arts,culture,photography",art,0.002300173,0.666666667,9.908831909
+2059,"arts,cities,culture,design",art,0.002300173,0.666666667,9.908831909
+851,"global issues,government",politics,0.006325474,0.785714286,9.901138716
+573,"culture,literature",storytelling,0.002300173,0.5,9.880681818
+235,cognitive science,brain,0.004600345,0.5,9.769662921
+704,"cognitive science,science",brain,0.003450259,0.5,9.769662921
+1249,"entertainment,performance",music,0.010925819,0.527777778,9.763888889
+75,neurology,biology,0.002875216,0.555555556,9.758698092
+1140,"life,science",biology,0.005750431,0.555555556,9.758698092
+1330,"health care,technology",medicine,0.00920069,0.516129032,9.755960729
+1247,"arts,performance",music,0.006325474,0.523809524,9.69047619
+1425,"children,global issues",education,0.003450259,0.75,9.590073529
+459,"illness,science",medicine,0.002300173,0.5,9.451086957
+1457,"biology,health",medicine,0.003450259,0.5,9.451086957
+1888,"design,health care,technology",medicine,0.002300173,0.5,9.451086957
+1891,"health care,science,technology",medicine,0.004600345,0.5,9.451086957
+559,"Africa,AIDS",health,0.002875216,0.625,9.289529915
+1307,"arts,humor",art,0.002875216,0.625,9.289529915
+1782,"disease,global issues,science",health,0.002875216,0.625,9.289529915
+24,behavioral economics,economics,0.002300173,0.5,9.152631579
+631,"china,global issues",economics,0.003450259,0.5,9.152631579
+735,"health,statistics",economics,0.002300173,0.5,9.152631579
+1435,"arts,cities",art,0.004600345,0.615384615,9.14661407
+87,biomechanics,biology,0.002300173,0.5,8.782828283
+93,biomimicry,biology,0.002300173,0.5,8.782828283
+807,"insects,science",biology,0.003450259,0.5,8.782828283
+1233,"animals,evolution",biology,0.002875216,0.5,8.782828283
+1422,"children,science",biology,0.002875216,0.5,8.782828283
+1964,"design,medicine,technology",health,0.004025302,0.583333333,8.67022792
+2016,"art,culture,entertainment",arts,0.003450259,0.857142857,8.666112957
+936,"philanthropy,technology",education,0.002300173,0.666666667,8.524509804
+1282,"children,computers",education,0.002300173,0.666666667,8.524509804
+352,"design,museums",art,0.002300173,0.571428571,8.493284493
+401,"biology,microbiology",health,0.002300173,0.571428571,8.493284493
+406,"microbiology,science",health,0.002300173,0.571428571,8.493284493
+734,"economics,statistics",health,0.002300173,0.571428571,8.493284493
+1461,"design,medicine",health,0.004600345,0.571428571,8.493284493
+1777,"disease,medicine,science",health,0.002300173,0.571428571,8.493284493
+2005,"arts,creativity,technology",art,0.002300173,0.571428571,8.493284493
+2063,"biology,medicine,science,technology",health,0.002300173,0.571428571,8.493284493
+355,"conducting,music",arts,0.002875216,0.833333333,8.425387597
+362,"conducting,entertainment",arts,0.002875216,0.833333333,8.425387597
+105,iraq,politics,0.003450259,0.666666667,8.400966184
+852,"government,technology",politics,0.002300173,0.666666667,8.400966184
+1725,"peace,violence,war",politics,0.002300173,0.666666667,8.400966184
+1325,"health care,medicine",health,0.010350776,0.5625,8.360576923
+1460,"medicine,TEDx",health,0.005175388,0.5625,8.360576923
+1884,"health care,medicine,technology",health,0.005175388,0.5625,8.360576923
+112,microbiology,health,0.002875216,0.555555556,8.257359924
+1938,"arts,cities,culture",art,0.002875216,0.555555556,8.257359924
+996,"disease,global issues",health,0.003450259,0.545454545,8.107226107
+1951,"biology,medicine,science",health,0.003450259,0.545454545,8.107226107
+875,"photography,TED Prize",arts,0.002300173,0.8,8.088372093
+1294,"activism,photography",arts,0.002300173,0.8,8.088372093
+1396,"social change,storytelling",arts,0.002300173,0.8,8.088372093
+1434,"art,cities",arts,0.004600345,0.8,8.088372093
+1578,"entertainment,guitar,music",arts,0.002300173,0.8,8.088372093
+1766,"entertainment,performance,poetry",arts,0.002300173,0.8,8.088372093
+1875,"art,culture,photography",arts,0.002300173,0.8,8.088372093
+2001,"art,creativity,entertainment",arts,0.002300173,0.8,8.088372093
+265,government,politics,0.00920069,0.64,8.064927536
+1332,"global issues,health care",health,0.004025302,0.538461538,8.003287311
+66,protests,politics,0.002875216,0.625,7.875905797
+1054,"global issues,society",politics,0.002875216,0.625,7.875905797
+1516,"art,entertainment",arts,0.012075906,0.75,7.582848837
+150,Europe,politics,0.003450259,0.6,7.560869565
+608,"agriculture,food",health,0.002300173,0.5,7.431623932
+998,"disease,science",health,0.005750431,0.5,7.431623932
+1266,"design,happiness",art,0.002875216,0.5,7.431623932
+1520,"arts,technology",art,0.007475561,0.5,7.431623932
+1893,"design,health care,technology",health,0.002300173,0.5,7.431623932
+1954,"biology,medicine,technology",health,0.002300173,0.5,7.431623932
+2018,"arts,entertainment,technology",art,0.002875216,0.5,7.431623932
+2022,"arts,design,technology",art,0.005175388,0.5,7.431623932
+418,"feminism,yesallwomen",education,0.002300173,0.571428571,7.306722689
+1584,"feminism,women,yesallwomen",education,0.002300173,0.571428571,7.306722689
+69,conducting,arts,0.002875216,0.714285714,7.221760797
+964,"music,poetry",arts,0.002875216,0.714285714,7.221760797
+1339,"history,war",politics,0.002300173,0.571428571,7.200828157
+1360,"Africa,entertainment",politics,0.002300173,0.571428571,7.200828157
+1682,"global issues,terrorism,war",politics,0.002300173,0.571428571,7.200828157
+914,"math,technology",education,0.002875216,0.555555556,7.10375817
+749,"terrorism,war",politics,0.002875216,0.555555556,7.000805153
+1219,"communication,global issues",politics,0.004025302,0.538461538,6.785395764
+1803,"global issues,peace,war",politics,0.004025302,0.538461538,6.785395764
+317,"performance,wunderkind",entertainment,0.002300173,1,6.740310078
+361,"arts,conducting",entertainment,0.002875216,1,6.740310078
+366,"conducting,culture",entertainment,0.002300173,1,6.740310078
+384,"arts,guitar",entertainment,0.002300173,1,6.740310078
+385,"entertainment,guitar",arts,0.002300173,0.666666667,6.740310078
+444,"performance,piano",entertainment,0.002300173,1,6.740310078
+447,"music,piano",entertainment,0.004600345,1,6.740310078
+449,"arts,piano",entertainment,0.002300173,1,6.740310078
+500,"arts,race",entertainment,0.002300173,1,6.740310078
+878,"culture,TED Prize",arts,0.002300173,0.666666667,6.740310078
+960,"performance,poetry",arts,0.002300173,0.666666667,6.740310078
+962,"humor,poetry",entertainment,0.002300173,1,6.740310078
+963,"poetry,storytelling",entertainment,0.002875216,1,6.740310078
+1073,"art,engineering",arts,0.002300173,0.666666667,6.740310078
+1562,"arts,conducting,music",entertainment,0.002875216,1,6.740310078
+1569,"conducting,culture,music",entertainment,0.002300173,1,6.740310078
+1572,"arts,conducting,culture",entertainment,0.002300173,1,6.740310078
+1577,"arts,guitar,music",entertainment,0.002300173,1,6.740310078
+1588,"music,performance,piano",entertainment,0.002300173,1,6.740310078
+1591,"arts,music,piano",entertainment,0.002300173,1,6.740310078
+1607,"arts,culture,race",entertainment,0.002300173,1,6.740310078
+1765,"arts,performance,poetry",entertainment,0.002300173,1,6.740310078
+1833,"culture,film,global issues",arts,0.002300173,0.666666667,6.740310078
+1864,"culture,entertainment,performance",arts,0.002300173,0.666666667,6.740310078
+1878,"art,design,humor",arts,0.002300173,0.666666667,6.740310078
+1977,"culture,global issues,storytelling",arts,0.003450259,0.666666667,6.740310078
+1981,"arts,creativity,music",entertainment,0.002300173,1,6.740310078
+1983,"culture,entertainment,music",arts,0.004600345,0.666666667,6.740310078
+2004,"art,creativity,technology",arts,0.002300173,0.666666667,6.740310078
+2014,"art,design,entertainment",arts,0.005750431,0.666666667,6.740310078
+2019,"art,culture,design",arts,0.003450259,0.666666667,6.740310078
+2039,"arts,conducting,culture,music",entertainment,0.002300173,1,6.740310078
+671,"consumerism,TEDx",business,0.002300173,1,6.714285714
+823,"technology,work",business,0.002300173,1,6.714285714
+1173,"development,politics",business,0.002875216,1,6.714285714
+1400,"economics,social change",business,0.004025302,1,6.714285714
+1679,"choice,culture,economics",business,0.002875216,1,6.714285714
+1847,"development,global issues,politics",business,0.002875216,1,6.714285714
+1426,"children,culture",education,0.006325474,0.523809524,6.697829132
+1342,"global issues,war",politics,0.012075906,0.512195122,6.454400848
+152,theater,arts,0.004025302,0.636363636,6.433932347
+545,"technology,toy",education,0.002300173,0.5,6.393382353
+1424,"children,TEDx",education,0.004600345,0.5,6.393382353
+1909,"collaboration,culture,global issues",education,0.002300173,0.5,6.393382353
+82,performance art,arts,0.002875216,0.625,6.319040698
+1243,"performance,storytelling",arts,0.002875216,0.625,6.319040698
+2008,"creativity,culture,entertainment",arts,0.002875216,0.625,6.319040698
+50,news,politics,0.002300173,0.5,6.300724638
+1030,"peace,war",politics,0.004600345,0.5,6.300724638
+1039,"community,global issues",politics,0.002875216,0.5,6.300724638
+1702,"Asia,economics,global issues",politics,0.002300173,0.5,6.300724638
+1860,"arts,music,performance",entertainment,0.005750431,0.909090909,6.127554616
+148,piano,entertainment,0.005175388,0.9,6.06627907
+1154,"film,technology",entertainment,0.005175388,0.9,6.06627907
+1253,"culture,performance",arts,0.003450259,0.6,6.06627907
+1484,"culture,music",arts,0.005175388,0.6,6.06627907
+956,"arts,live music",entertainment,0.004600345,0.888888889,5.991386736
+1982,"arts,culture,music",entertainment,0.004600345,0.888888889,5.991386736
+1519,"art,culture",arts,0.007475561,0.590909091,5.974365751
+1148,"creativity,film",entertainment,0.004025302,0.875,5.897771318
+1151,"culture,film",arts,0.004025302,0.583333333,5.897771318
+1761,"arts,live music,music",entertainment,0.004025302,0.875,5.897771318
+70,conducting,entertainment,0.003450259,0.857142857,5.777408638
+380,"guitar,music",arts,0.002300173,0.571428571,5.777408638
+503,"culture,race",arts,0.002300173,0.571428571,5.777408638
+904,"art,book",arts,0.002300173,0.571428571,5.777408638
+1306,"humor,music",entertainment,0.003450259,0.857142857,5.777408638
+1974,"culture,entertainment,storytelling",arts,0.004600345,0.571428571,5.777408638
+1985,"design,music,technology",entertainment,0.003450259,0.857142857,5.777408638
+17,finance,business,0.003450259,0.857142857,5.755102041
+969,"entertainment,poetry",arts,0.005175388,0.5625,5.687136628
+1483,"arts,music",entertainment,0.014951121,0.838709677,5.653163291
+357,"conducting,music",entertainment,0.002875216,0.833333333,5.616925065
+450,"illusion,magic",entertainment,0.002875216,0.833333333,5.616925065
+957,"live music,technology",entertainment,0.002875216,0.833333333,5.616925065
+961,"performance,poetry",entertainment,0.002875216,0.833333333,5.616925065
+1302,"entertainment,photography",arts,0.002875216,0.555555556,5.616925065
+1471,"art,storytelling",arts,0.002875216,0.555555556,5.616925065
+1696,"design,gaming,technology",entertainment,0.002875216,0.833333333,5.616925065
+2003,"art,creativity,design",arts,0.002875216,0.555555556,5.616925065
+549,"culture,marketing",business,0.002875216,0.833333333,5.595238095
+712,"development,investment",business,0.002875216,0.833333333,5.595238095
+725,"choice,economics",business,0.002875216,0.833333333,5.595238095
+930,"development,philanthropy",business,0.002875216,0.833333333,5.595238095
+1079,"development,entrepreneur",business,0.002875216,0.833333333,5.595238095
+1089,"culture,entrepreneur",business,0.002875216,0.833333333,5.595238095
+1432,"cities,economics",business,0.002875216,0.833333333,5.595238095
+1669,"development,global issues,investment",business,0.002875216,0.833333333,5.595238095
+1741,"development,global issues,philanthropy",business,0.002875216,0.833333333,5.595238095
+1824,"development,global issues,poverty",business,0.002875216,0.833333333,5.595238095
+3,typography,design,0.003450259,1,5.555910543
+4,One Laptop Per Child,design,0.002300173,1,5.555910543
+374,"animals,biomechanics",design,0.002300173,1,5.555910543
+424,"flight,invention",design,0.002300173,1,5.555910543
+513,"play,toy",design,0.002300173,1,5.555910543
+538,"children,toy",design,0.002300173,1,5.555910543
+916,"animals,robots",design,0.002300173,1,5.555910543
+1201,"architecture,collaboration",design,0.004025302,1,5.555910543
+1208,"architecture,invention",design,0.002875216,1,5.555910543
+1209,"architecture,biology",design,0.002300173,1,5.555910543
+1216,"architecture,culture",design,0.005175388,1,5.555910543
+1271,"art,innovation",design,0.002300173,1,5.555910543
+1286,"art,computers",design,0.002875216,1,5.555910543
+1575,"animals,biomechanics,technology",design,0.002300173,1,5.555910543
+1720,"cities,culture,transportation",design,0.002300173,1,5.555910543
+1736,"animals,robots,technology",design,0.002300173,1,5.555910543
+1785,"demo,entertainment,technology",design,0.005750431,1,5.555910543
+1855,"architecture,cities,culture",design,0.002300173,1,5.555910543
+1857,"architecture,arts,culture",design,0.002300173,1,5.555910543
+1932,"children,entertainment,technology",design,0.002300173,1,5.555910543
+1005,"data,health",TEDx,0.002875216,0.833333333,5.531170483
+9,wunderkind,entertainment,0.002300173,0.8,5.392248062
+15,violin,entertainment,0.002300173,0.8,5.392248062
+319,"music,violin",entertainment,0.002300173,0.8,5.392248062
+441,"live music,piano",entertainment,0.002300173,0.8,5.392248062
+966,"poetry,politics",entertainment,0.002300173,0.8,5.392248062
+1190,"humor,media",entertainment,0.002300173,0.8,5.392248062
+1251,"creativity,performance",entertainment,0.002300173,0.8,5.392248062
+1300,"art,photography",arts,0.004600345,0.533333333,5.392248062
+1312,"music,TED Fellows",entertainment,0.002300173,0.8,5.392248062
+1487,"culture,music",entertainment,0.006900518,0.8,5.392248062
+1756,"arts,live music,performance",entertainment,0.002300173,0.8,5.392248062
+1763,"live music,music,technology",entertainment,0.002300173,0.8,5.392248062
+1767,"arts,music,poetry",entertainment,0.002300173,0.8,5.392248062
+1858,"creativity,music,performance",entertainment,0.002300173,0.8,5.392248062
+2048,"arts,live music,music,performance",entertainment,0.002300173,0.8,5.392248062
+386,"choice,decision making",business,0.002300173,0.8,5.371428571
+529,"money,psychology",business,0.002300173,0.8,5.371428571
+557,"industrial design,technology",business,0.002300173,0.8,5.371428571
+566,"psychology,success",business,0.002300173,0.8,5.371428571
+709,"investment,philanthropy",business,0.002300173,0.8,5.371428571
+718,"culture,investment",business,0.002300173,0.8,5.371428571
+764,"global issues,third world",business,0.002300173,0.8,5.371428571
+1083,"Africa,entrepreneur",business,0.002300173,0.8,5.371428571
+1191,"creativity,media",business,0.002300173,0.8,5.371428571
+1666,"global issues,investment,philanthropy",business,0.002300173,0.8,5.371428571
+1673,"culture,global issues,investment",business,0.002300173,0.8,5.371428571
+1685,"development,global issues,third world",business,0.002300173,0.8,5.371428571
+1746,"culture,global issues,philanthropy",business,0.002300173,0.8,5.371428571
+1817,"development,entrepreneur,global issues",business,0.002300173,0.8,5.371428571
+1821,"culture,global issues,sustainability",business,0.002300173,0.8,5.371428571
+1849,"culture,development,global issues",business,0.002300173,0.8,5.371428571
+1861,"entertainment,music,performance",arts,0.005750431,0.526315789,5.32129743
+1486,"design,music",entertainment,0.004025302,0.777777778,5.242463394
+1518,"art,design",arts,0.016101208,0.509090909,5.147145877
+1252,"arts,performance",entertainment,0.00920069,0.761904762,5.135474345
+99,guitar,arts,0.002300173,0.5,5.055232558
+100,guitar,entertainment,0.003450259,0.75,5.055232558
+445,"music,piano",arts,0.002300173,0.5,5.055232558
+955,"creativity,live music",entertainment,0.003450259,0.75,5.055232558
+1150,"film,global issues",arts,0.003450259,0.5,5.055232558
+1303,"design,photography",arts,0.004025302,0.5,5.055232558
+1474,"design,storytelling",arts,0.004025302,0.5,5.055232558
+1479,"creativity,music",entertainment,0.005175388,0.75,5.055232558
+1592,"entertainment,music,piano",arts,0.002300173,0.5,5.055232558
+1770,"culture,entertainment,poetry",arts,0.002300173,0.5,5.055232558
+2006,"creativity,design,entertainment",arts,0.002300173,0.5,5.055232558
+2017,"art,entertainment,technology",arts,0.002875216,0.5,5.055232558
+2021,"art,design,technology",arts,0.005175388,0.5,5.055232558
+1212,"architecture,arts",design,0.005175388,0.9,5.000319489
+952,"live music,music",entertainment,0.011500863,0.740740741,4.99282228
+278,live music,entertainment,0.014376078,0.735294118,4.956110351
+149,magic,entertainment,0.006325474,0.733333333,4.942894057
+947,"live music,performance",entertainment,0.006325474,0.733333333,4.942894057
+237,investment,business,0.006325474,0.733333333,4.923809524
+717,"global issues,investment",business,0.004600345,0.727272727,4.883116883
+1948,"cities,culture,global issues",business,0.004600345,0.727272727,4.883116883
+1210,"architecture,creativity",design,0.004025302,0.875,4.861421725
+1384,"cities,collaboration",design,0.004025302,0.875,4.861421725
+1217,"architecture,technology",design,0.007475561,0.866666667,4.815122471
+382,"guitar,music",entertainment,0.002875216,0.714285714,4.814507198
+437,"music,singer",entertainment,0.002875216,0.714285714,4.814507198
+1242,"humor,performance",entertainment,0.002875216,0.714285714,4.814507198
+1752,"live music,music,performance",entertainment,0.005750431,0.714285714,4.814507198
+1758,"creativity,live music,music",entertainment,0.002875216,0.714285714,4.814507198
+2007,"arts,creativity,culture",entertainment,0.002875216,0.714285714,4.814507198
+42,productivity,business,0.002875216,0.714285714,4.795918367
+1912,"collaboration,culture,technology",business,0.002875216,0.714285714,4.795918367
+2010,"arts,creativity,technology",design,0.003450259,0.857142857,4.762209037
+33,natural disaster,TEDx,0.002875216,0.714285714,4.741003272
+337,"disaster relief,natural disaster",TEDx,0.002875216,0.714285714,4.741003272
+142,singer,entertainment,0.004025302,0.7,4.718217054
+1013,"demo,entertainment",design,0.006325474,0.846153846,4.701155075
+191,industrial design,design,0.005750431,0.833333333,4.629925453
+552,"industrial design,invention",design,0.002875216,0.833333333,4.629925453
+868,"cities,transportation",design,0.002875216,0.833333333,4.629925453
+1075,"art,engineering",design,0.002875216,0.833333333,4.629925453
+1203,"architecture,environment",design,0.002875216,0.833333333,4.629925453
+1211,"architecture,art",design,0.002875216,0.833333333,4.629925453
+1213,"architecture,TEDx",design,0.002875216,0.833333333,4.629925453
+1265,"art,happiness",design,0.002875216,0.833333333,4.629925453
+1283,"children,computers",design,0.002875216,0.833333333,4.629925453
+1433,"cities,creativity",design,0.002875216,0.833333333,4.629925453
+1695,"entertainment,gaming,technology",design,0.002875216,0.833333333,4.629925453
+1856,"architecture,cities,technology",design,0.002875216,0.833333333,4.629925453
+22,state building,global issues,0.002875216,1,4.600529101
+327,"politics,state building",global issues,0.002300173,1,4.600529101
+453,"Europe,politics",global issues,0.003450259,1,4.600529101
+462,"Egypt,politics",global issues,0.002300173,1,4.600529101
+499,"business,corruption",global issues,0.002300173,1,4.600529101
+630,"china,economics",global issues,0.003450259,1,4.600529101
+634,"china,politics",global issues,0.002875216,1,4.600529101
+635,"business,china",global issues,0.003450259,1,4.600529101
+710,"investment,philanthropy",global issues,0.002875216,1,4.600529101
+711,"entrepreneur,investment",global issues,0.002300173,1,4.600529101
+713,"development,investment",global issues,0.003450259,1,4.600529101
+715,"investment,women",global issues,0.002300173,1,4.600529101
+720,"culture,investment",global issues,0.002875216,1,4.600529101
+755,"culture,terrorism",global issues,0.002300173,1,4.600529101
+796,"Asia,politics",global issues,0.003450259,1,4.600529101
+821,"leadership,politics",global issues,0.002300173,1,4.600529101
+862,"alternative energy,sustainability",global issues,0.002300173,1,4.600529101
+901,"culture,violence",global issues,0.002875216,1,4.600529101
+929,"entrepreneur,philanthropy",global issues,0.002300173,1,4.600529101
+931,"development,philanthropy",global issues,0.003450259,1,4.600529101
+933,"Africa,philanthropy",global issues,0.003450259,1,4.600529101
+934,"philanthropy,social change",global issues,0.002875216,1,4.600529101
+937,"philanthropy,politics",global issues,0.002300173,1,4.600529101
+1035,"peace,TEDx",global issues,0.002300173,1,4.600529101
+1038,"community,politics",global issues,0.002875216,1,4.600529101
+1053,"politics,society",global issues,0.002875216,1,4.600529101
+1129,"activism,poverty",global issues,0.002875216,1,4.600529101
+1132,"politics,poverty",global issues,0.002300173,1,4.600529101
+1134,"business,poverty",global issues,0.005175388,1,4.600529101
+1144,"Africa,film",global issues,0.002300173,1,4.600529101
+1145,"film,social change",global issues,0.002300173,1,4.600529101
+1165,"development,health care",global issues,0.002300173,1,4.600529101
+1174,"development,politics",global issues,0.002875216,1,4.600529101
+1218,"communication,politics",global issues,0.004025302,1,4.600529101
+1275,"war,women",global issues,0.002300173,1,4.600529101
+1633,"Asia,china,economics",global issues,0.002300173,1,4.600529101
+1638,"china,culture,economics",global issues,0.002300173,1,4.600529101
+1661,"development,investment,philanthropy",global issues,0.002300173,1,4.600529101
+1665,"business,investment,philanthropy",global issues,0.002300173,1,4.600529101
+1668,"business,development,investment",global issues,0.002875216,1,4.600529101
+1672,"business,culture,investment",global issues,0.002300173,1,4.600529101
+1684,"business,development,third world",global issues,0.002300173,1,4.600529101
+1701,"Asia,economics,politics",global issues,0.002300173,1,4.600529101
+1733,"culture,violence,war",global issues,0.002300173,1,4.600529101
+1740,"business,development,philanthropy",global issues,0.002875216,1,4.600529101
+1743,"Africa,business,philanthropy",global issues,0.002300173,1,4.600529101
+1745,"business,culture,philanthropy",global issues,0.002300173,1,4.600529101
+1805,"culture,peace,war",global issues,0.003450259,1,4.600529101
+1820,"business,culture,sustainability",global issues,0.002300173,1,4.600529101
+1823,"business,development,poverty",global issues,0.002875216,1,4.600529101
+1826,"business,poverty,women",global issues,0.002300173,1,4.600529101
+1829,"business,culture,poverty",global issues,0.002300173,1,4.600529101
+1837,"Africa,development,economics",global issues,0.002875216,1,4.600529101
+1844,"business,development,economics",global issues,0.002875216,1,4.600529101
+1846,"business,development,politics",global issues,0.002875216,1,4.600529101
+1848,"business,culture,development",global issues,0.002300173,1,4.600529101
+1896,"culture,TEDx,war",global issues,0.002875216,1,4.600529101
+1897,"culture,technology,war",global issues,0.002300173,1,4.600529101
+1908,"collaboration,culture,education",global issues,0.002300173,1,4.600529101
+1913,"arts,social change,storytelling",global issues,0.002300173,1,4.600529101
+1921,"culture,social change,storytelling",global issues,0.002300173,1,4.600529101
+1929,"culture,environment,technology",global issues,0.002300173,1,4.600529101
+1943,"business,cities,design",global issues,0.002300173,1,4.600529101
+1996,"business,economics,politics",global issues,0.002300173,1,4.600529101
+1997,"culture,economics,politics",global issues,0.002300173,1,4.600529101
+2032,"culture,politics,technology",global issues,0.002300173,1,4.600529101
+2052,"arts,culture,social change,storytelling",global issues,0.002300173,1,4.600529101
+312,music,entertainment,0.036227717,0.670212766,4.51744186
+452,"magic,technology",entertainment,0.002300173,0.666666667,4.493540052
+568,"literature,poetry",entertainment,0.002300173,0.666666667,4.493540052
+672,"culture,dance",entertainment,0.002300173,0.666666667,4.493540052
+782,"gaming,technology",entertainment,0.003450259,0.666666667,4.493540052
+880,"culture,TED Prize",entertainment,0.002300173,0.666666667,4.493540052
+1305,"humor,storytelling",entertainment,0.002300173,0.666666667,4.493540052
+1378,"history,music",entertainment,0.002300173,0.666666667,4.493540052
+1485,"business,music",entertainment,0.002300173,0.666666667,4.493540052
+1488,"music,technology",entertainment,0.00920069,0.666666667,4.493540052
+1769,"arts,culture,poetry",entertainment,0.002300173,0.666666667,4.493540052
+1863,"arts,culture,performance",entertainment,0.002300173,0.666666667,4.493540052
+1973,"arts,culture,storytelling",entertainment,0.004600345,0.666666667,4.493540052
+1980,"culture,global issues,storytelling",entertainment,0.003450259,0.666666667,4.493540052
+187,marketing,business,0.005750431,0.666666667,4.476190476
+392,"culture,decision making",business,0.002300173,0.666666667,4.476190476
+550,"industrial design,invention",business,0.002300173,0.666666667,4.476190476
+719,"investment,technology",business,0.002300173,0.666666667,4.476190476
+932,"Africa,philanthropy",business,0.002300173,0.666666667,4.476190476
+1087,"entertainment,entrepreneur",business,0.002300173,0.666666667,4.476190476
+1109,"culture,sustainability",business,0.002300173,0.666666667,4.476190476
+1177,"culture,development",business,0.002300173,0.666666667,4.476190476
+1263,"economics,happiness",business,0.002300173,0.666666667,4.476190476
+1744,"Africa,global issues,philanthropy",business,0.002300173,0.666666667,4.476190476
+1827,"global issues,poverty,women",business,0.002300173,0.666666667,4.476190476
+1830,"culture,global issues,poverty",business,0.002300173,0.666666667,4.476190476
+1944,"cities,design,global issues",business,0.002300173,0.666666667,4.476190476
+300,architecture,design,0.025876941,0.803571429,4.464570972
+540,"invention,toy",design,0.002300173,0.8,4.444728435
+558,"industrial design,technology",design,0.002300173,0.8,4.444728435
+906,"arts,book",design,0.002300173,0.8,4.444728435
+911,"book,technology",design,0.002300173,0.8,4.444728435
+1024,"computers,visualizations",design,0.002300173,0.8,4.444728435
+1182,"architecture,green",design,0.002300173,0.8,4.444728435
+1214,"architecture,business",design,0.002300173,0.8,4.444728435
+1215,"architecture,global issues",design,0.002300173,0.8,4.444728435
+1852,"architecture,cities,creativity",design,0.002300173,0.8,4.444728435
+1872,"children,computers,technology",design,0.002300173,0.8,4.444728435
+1877,"art,arts,humor",design,0.002300173,0.8,4.444728435
+1940,"art,cities,culture",design,0.002300173,0.8,4.444728435
+1992,"entertainment,invention,technology",design,0.002300173,0.8,4.444728435
+2057,"art,arts,cities,culture",design,0.002300173,0.8,4.444728435
+143,disability,TEDx,0.004600345,0.666666667,4.424936387
+12,human origins,science,0.002300173,1,4.391414141
+20,dark matter,science,0.002875216,1,4.391414141
+37,paleontology,science,0.003450259,1,4.391414141
+110,String theory,science,0.005175388,1,4.391414141
+323,"astronomy,dark matter",science,0.002300173,1,4.391414141
+325,"dark matter,physics",science,0.002300173,1,4.391414141
+345,"biology,birds",science,0.002300173,1,4.391414141
+397,"String theory,universe",science,0.002875216,1,4.391414141
+399,"physics,String theory",science,0.005175388,1,4.391414141
+414,"cosmos,physics",science,0.002875216,1,4.391414141
+458,"illness,medicine",science,0.002300173,1,4.391414141
+461,"illness,technology",science,0.002300173,1,4.391414141
+468,"fish,mission blue",science,0.002875216,1,4.391414141
+473,"mission blue,technology",science,0.002300173,1,4.391414141
+506,"bacteria,evolution",science,0.002300173,1,4.391414141
+660,"DNA,technology",science,0.004600345,1,4.391414141
+697,"fish,technology",science,0.002875216,1,4.391414141
+741,"neuroscience,technology",science,0.002300173,1,4.391414141
+785,"biotech,genetics",science,0.002300173,1,4.391414141
+787,"biotech,health care",science,0.002300173,1,4.391414141
+834,"astronomy,exploration",science,0.002300173,1,4.391414141
+841,"genetics,invention",science,0.002300173,1,4.391414141
+846,"genetics,technology",science,0.005175388,1,4.391414141
+972,"biodiversity,oceans",science,0.002300173,1,4.391414141
+1044,"history,space",science,0.002300173,1,4.391414141
+1136,"exploration,life",science,0.002875216,1,4.391414141
+1157,"exploration,physics",science,0.002300173,1,4.391414141
+1236,"evolution,medicine",science,0.002300173,1,4.391414141
+1331,"biology,health care",science,0.003450259,1,4.391414141
+1507,"biology,business",science,0.002300173,1,4.391414141
+1554,"astronomy,dark matter,physics",science,0.002300173,1,4.391414141
+1580,"physics,String theory,universe",science,0.002875216,1,4.391414141
+1594,"fish,mission blue,oceans",science,0.002875216,1,4.391414141
+1597,"mission blue,oceans,technology",science,0.002300173,1,4.391414141
+1647,"DNA,genetics,technology",science,0.002300173,1,4.391414141
+1651,"exploration,fish,oceans",science,0.002300173,1,4.391414141
+1654,"animals,fish,oceans",science,0.002300173,1,4.391414141
+1656,"fish,oceans,technology",science,0.002300173,1,4.391414141
+1659,"animals,fish,technology",science,0.002300173,1,4.391414141
+1698,"biotech,genetics,technology",science,0.002300173,1,4.391414141
+1700,"biotech,health care,technology",science,0.002300173,1,4.391414141
+1714,"astronomy,exploration,technology",science,0.002300173,1,4.391414141
+1716,"genetics,invention,technology",science,0.002300173,1,4.391414141
+1771,"animals,biodiversity,global issues",science,0.002300173,1,4.391414141
+1808,"physics,space,technology",science,0.002300173,1,4.391414141
+1822,"animals,oceans,technology",science,0.002300173,1,4.391414141
+1836,"exploration,physics,technology",science,0.002300173,1,4.391414141
+1880,"biology,health care,medicine",science,0.002300173,1,4.391414141
+1950,"biology,health,medicine",science,0.003450259,1,4.391414141
+1969,"business,medicine,technology",science,0.002300173,1,4.391414141
+1998,"biology,health,technology",science,0.002300173,1,4.391414141
+2062,"biology,health,medicine,technology",science,0.002300173,1,4.391414141
+1345,"culture,war",global issues,0.010350776,0.947368421,4.35839599
+222,women in business,business,0.006325474,0.647058824,4.344537815
+968,"arts,poetry",entertainment,0.005175388,0.642857143,4.333056478
+63,museums,design,0.004025302,0.777777778,4.321263756
+127,flight,design,0.004025302,0.777777778,4.321263756
+618,"materials,technology",design,0.004025302,0.777777778,4.321263756
+781,"design,gaming",entertainment,0.004025302,0.636363636,4.289288231
+177,Senses,design,0.005750431,0.769230769,4.273777341
+1175,"business,development",global issues,0.007475561,0.928571429,4.271919879
+304,performance,entertainment,0.020701553,0.631578947,4.257037944
+575,"culture,literature",entertainment,0.002875216,0.625,4.212693798
+1309,"arts,humor",entertainment,0.002875216,0.625,4.212693798
+1480,"art,music",entertainment,0.002875216,0.625,4.212693798
+226,consumerism,business,0.005750431,0.625,4.196428571
+1502,"economics,TEDx",business,0.002875216,0.625,4.196428571
+1842,"Africa,development,global issues",business,0.002875216,0.625,4.196428571
+94,biomimicry,design,0.003450259,0.75,4.166932907
+1100,"architecture,sustainability",design,0.003450259,0.75,4.166932907
+1492,"arts,invention",design,0.003450259,0.75,4.166932907
+1933,"art,arts,cities",design,0.003450259,0.75,4.166932907
+1358,"Africa,economics",global issues,0.005175388,0.9,4.14047619
+1161,"physics,technology",science,0.00920069,0.941176471,4.133095663
+1248,"music,performance",entertainment,0.010925819,0.612903226,4.131157789
+1503,"culture,economics",business,0.010925819,0.612903226,4.115207373
+794,"Asia,economics",global issues,0.004600345,0.888888889,4.0893592
+1034,"peace,politics",global issues,0.004600345,0.888888889,4.0893592
+6,Islam,culture,0.002875216,1,4.072599532
+389,"decision making,economics",culture,0.002300173,1,4.072599532
+464,"personal growth,potential",culture,0.002300173,1,4.072599532
+502,"arts,race",culture,0.002300173,1,4.072599532
+504,"entertainment,race",culture,0.002300173,1,4.072599532
+572,"literature,storytelling",culture,0.002300173,1,4.072599532
+723,"choice,happiness",culture,0.002300173,1,4.072599532
+798,"self,society",culture,0.002300173,1,4.072599532
+801,"self,social change",culture,0.002300173,1,4.072599532
+803,"entertainment,self",culture,0.002300173,1,4.072599532
+1009,"happiness,religion",culture,0.002300173,1,4.072599532
+1052,"brain,society",culture,0.003450259,1,4.072599532
+1269,"global issues,happiness",culture,0.005175388,1,4.072599532
+1406,"arts,social change",culture,0.002875216,1,4.072599532
+1606,"arts,entertainment,race",culture,0.002300173,1,4.072599532
+1674,"choice,happiness,psychology",culture,0.002300173,1,4.072599532
+1678,"business,choice,economics",culture,0.002875216,1,4.072599532
+1907,"collaboration,education,global issues",culture,0.002300173,1,4.072599532
+1917,"arts,social change,storytelling",culture,0.002300173,1,4.072599532
+1920,"global issues,social change,storytelling",culture,0.002300173,1,4.072599532
+1924,"arts,global issues,social change",culture,0.002300173,1,4.072599532
+2051,"arts,global issues,social change,storytelling",culture,0.002300173,1,4.072599532
+159,mission blue,science,0.006900518,0.923076923,4.053613054
+470,"mission blue,oceans",science,0.006900518,0.923076923,4.053613054
+197,illusion,entertainment,0.005175388,0.6,4.044186047
+1146,"film,storytelling",entertainment,0.003450259,0.6,4.044186047
+1254,"culture,performance",entertainment,0.003450259,0.6,4.044186047
+1357,"Africa,economics",business,0.003450259,0.6,4.028571429
+1802,"peace,politics,war",global issues,0.004025302,0.875,4.025462963
+1894,"culture,politics,war",global issues,0.004025302,0.875,4.025462963
+1923,"culture,politics,social change",global issues,0.004025302,0.875,4.025462963
+1115,"animals,oceans",science,0.005750431,0.909090909,3.992194674
+1501,"economics,politics",global issues,0.007475561,0.866666667,3.98712522
+253,gaming,entertainment,0.007475561,0.590909091,3.9829105
+554,"business,industrial design",design,0.002875216,0.714285714,3.968507531
+1207,"architecture,cities",design,0.008625647,0.714285714,3.968507531
+137,chemistry,science,0.005175388,0.9,3.952272727
+215,china,global issues,0.006900518,0.857142857,3.943310658
+332,"charter for compassion,compassion",global issues,0.003450259,0.857142857,3.943310658
+628,"Asia,china",global issues,0.003450259,0.857142857,3.943310658
+812,"crime,culture",global issues,0.003450259,0.857142857,3.943310658
+1036,"culture,peace",global issues,0.006900518,0.857142857,3.943310658
+1128,"poverty,women",global issues,0.003450259,0.857142857,3.943310658
+1153,"film,global issues",entertainment,0.004025302,0.583333333,3.931847545
+190,industrial design,business,0.004025302,0.583333333,3.916666667
+729,"choice,culture",business,0.004025302,0.583333333,3.916666667
+1088,"entrepreneur,global issues",business,0.004025302,0.583333333,3.916666667
+1014,"demo,design",entertainment,0.006325474,0.578947368,3.902284782
+792,"biotech,technology",science,0.008625647,0.882352941,3.874777184
+505,"culture,race",entertainment,0.002300173,0.571428571,3.851605759
+773,"comedy,culture",entertainment,0.002300173,0.571428571,3.851605759
+903,"book,history",entertainment,0.002300173,0.571428571,3.851605759
+965,"music,poetry",entertainment,0.002300173,0.571428571,3.851605759
+971,"culture,poetry",entertainment,0.004600345,0.571428571,3.851605759
+2009,"arts,creativity,technology",entertainment,0.002300173,0.571428571,3.851605759
+209,materials,design,0.005175388,0.692307692,3.846399607
+1547,"arts,technology",design,0.010350776,0.692307692,3.846399607
+2020,"art,arts,technology",design,0.005175388,0.692307692,3.846399607
+589,"exploration,Planets",science,0.004025302,0.875,3.842487374
+1628,"exploration,Planets,technology",science,0.004025302,0.875,3.842487374
+1957,"biology,medicine,technology",science,0.004025302,0.875,3.842487374
+662,"women,women in business",business,0.002300173,0.571428571,3.836734694
+1086,"entrepreneur,invention",business,0.002300173,0.571428571,3.836734694
+1126,"poverty,women",business,0.002300173,0.571428571,3.836734694
+1374,"entertainment,psychology",business,0.002300173,0.571428571,3.836734694
+1408,"science,social change",business,0.002300173,0.571428571,3.836734694
+335,"charter for compassion,religion",global issues,0.002875216,0.833333333,3.83377425
+393,"iraq,politics",global issues,0.002875216,0.833333333,3.83377425
+495,"compassion,religion",global issues,0.002875216,0.833333333,3.83377425
+637,"china,culture",global issues,0.002875216,0.833333333,3.83377425
+747,"terrorism,violence",global issues,0.002875216,0.833333333,3.83377425
+756,"technology,terrorism",global issues,0.002875216,0.833333333,3.83377425
+941,"philanthropy,technology",global issues,0.002875216,0.833333333,3.83377425
+1080,"development,entrepreneur",global issues,0.002875216,0.833333333,3.83377425
+1111,"culture,sustainability",global issues,0.002875216,0.833333333,3.83377425
+1178,"culture,development",global issues,0.002875216,0.833333333,3.83377425
+1361,"Africa,politics",global issues,0.005750431,0.833333333,3.83377425
+1500,"economics,health",global issues,0.002875216,0.833333333,3.83377425
+1558,"charter for compassion,compassion,religion",global issues,0.002875216,0.833333333,3.83377425
+1841,"Africa,business,development",global issues,0.002875216,0.833333333,3.83377425
+1901,"Africa,business,economics",global issues,0.002875216,0.833333333,3.83377425
+2027,"culture,education,politics",global issues,0.002875216,0.833333333,3.83377425
+1176,"development,global issues",business,0.007475561,0.565217391,3.795031056
+432,"health,heart health",TEDx,0.002300173,0.571428571,3.792802617
+1273,"activism,women",TEDx,0.002300173,0.571428571,3.792802617
+122,cosmos,science,0.003450259,0.857142857,3.764069264
+484,"physics,time",science,0.003450259,0.857142857,3.764069264
+667,"medical research,medicine",science,0.003450259,0.857142857,3.764069264
+844,"culture,genetics",science,0.003450259,0.857142857,3.764069264
+885,"exploration,universe",science,0.003450259,0.857142857,3.764069264
+897,"violence,war",global issues,0.005175388,0.818181818,3.764069264
+979,"biodiversity,global issues",science,0.003450259,0.857142857,3.764069264
+1040,"physics,space",science,0.003450259,0.857142857,3.764069264
+1171,"development,economics",global issues,0.005175388,0.818181818,3.764069264
+908,"book,design",entertainment,0.002875216,0.555555556,3.74461671
+1786,"demo,design,technology",entertainment,0.005750431,0.555555556,3.74461671
+1032,"peace,war",global issues,0.007475561,0.8125,3.737929894
+102,decision making,business,0.002875216,0.555555556,3.73015873
+939,"global issues,philanthropy",business,0.005750431,0.555555556,3.73015873
+1226,"culture,future",business,0.002875216,0.555555556,3.73015873
+1372,"economics,psychology",business,0.002875216,0.555555556,3.73015873
+1504,"economics,technology",business,0.005750431,0.555555556,3.73015873
+1845,"development,economics,global issues",business,0.002875216,0.555555556,3.73015873
+1902,"Africa,economics,global issues",business,0.002875216,0.555555556,3.73015873
+1990,"culture,invention,technology",business,0.002875216,0.555555556,3.73015873
+188,product design,design,0.004600345,0.666666667,3.703940362
+351,"art,museums",design,0.002300173,0.666666667,3.703940362
+427,"flight,technology",design,0.002300173,0.666666667,3.703940362
+673,"demo,interface design",design,0.002300173,0.666666667,3.703940362
+784,"gaming,technology",design,0.003450259,0.666666667,3.703940362
+871,"invention,transportation",design,0.002300173,0.666666667,3.703940362
+1110,"culture,sustainability",design,0.002300173,0.666666667,3.703940362
+1200,"architecture,TED Fellows",design,0.002300173,0.666666667,3.703940362
+1267,"arts,happiness",design,0.002300173,0.666666667,3.703940362
+1380,"art,history",design,0.002300173,0.666666667,3.703940362
+1423,"art,children",design,0.002300173,0.666666667,3.703940362
+1470,"creativity,storytelling",design,0.002300173,0.666666667,3.703940362
+1521,"art,business",design,0.002300173,0.666666667,3.703940362
+1650,"demo,interface design,technology",design,0.002300173,0.666666667,3.703940362
+1942,"arts,cities,culture",design,0.003450259,0.666666667,3.703940362
+1,Foreign Policy,global issues,0.002300173,0.8,3.68042328
+353,"politics,protests",global issues,0.002300173,0.8,3.68042328
+486,"military,war",global issues,0.002300173,0.8,3.68042328
+488,"security,terrorism",global issues,0.002300173,0.8,3.68042328
+661,"investment,women in business",global issues,0.002300173,0.8,3.68042328
+732,"Africa,statistics",global issues,0.002300173,0.8,3.68042328
+748,"peace,terrorism",global issues,0.002300173,0.8,3.68042328
+754,"TEDx,terrorism",global issues,0.002300173,0.8,3.68042328
+763,"business,third world",global issues,0.002300173,0.8,3.68042328
+771,"economics,inequality",global issues,0.002300173,0.8,3.68042328
+808,"crime,law",global issues,0.002300173,0.8,3.68042328
+853,"government,TEDx",global issues,0.002300173,0.8,3.68042328
+1019,"climate change,sustainability",global issues,0.002300173,0.8,3.68042328
+1021,"climate change,culture",global issues,0.002300173,0.8,3.68042328
+1084,"Africa,entrepreneur",global issues,0.002300173,0.8,3.68042328
+1085,"entrepreneur,social change",global issues,0.002300173,0.8,3.68042328
+1130,"Africa,poverty",global issues,0.002300173,0.8,3.68042328
+1295,"activism,photography",global issues,0.002300173,0.8,3.68042328
+1398,"social change,storytelling",global issues,0.002300173,0.8,3.68042328
+1405,"arts,social change",global issues,0.002300173,0.8,3.68042328
+1603,"security,technology,terrorism",global issues,0.002300173,0.8,3.68042328
+1681,"politics,terrorism,war",global issues,0.002300173,0.8,3.68042328
+1731,"politics,violence,war",global issues,0.002300173,0.8,3.68042328
+1792,"climate change,environment,technology",global issues,0.002300173,0.8,3.68042328
+1816,"business,development,entrepreneur",global issues,0.002300173,0.8,3.68042328
+1925,"arts,culture,social change",global issues,0.002300173,0.8,3.68042328
+1168,"Africa,development",business,0.003450259,0.545454545,3.662337662
+45,extraterrestrial life,science,0.002875216,0.833333333,3.659511785
+482,"time,universe",science,0.002875216,0.833333333,3.659511785
+654,"DNA,genetics",science,0.002875216,0.833333333,3.659511785
+687,"fish,oceans",science,0.005750431,0.833333333,3.659511785
+702,"cognitive science,psychology",science,0.002875216,0.833333333,3.659511785
+980,"biodiversity,technology",science,0.002875216,0.833333333,3.659511785
+1447,"biology,brain",science,0.002875216,0.833333333,3.659511785
+1451,"brain,business",science,0.002875216,0.833333333,3.659511785
+1509,"biology,global issues",science,0.002875216,0.833333333,3.659511785
+1616,"exploration,Planets,space",science,0.002875216,0.833333333,3.659511785
+1723,"exploration,technology,universe",science,0.002875216,0.833333333,3.659511785
+1780,"disease,global issues,health",science,0.002875216,0.833333333,3.659511785
+2025,"business,health,technology",science,0.002875216,0.833333333,3.659511785
+2044,"exploration,Planets,space,technology",science,0.002875216,0.833333333,3.659511785
+195,literature,entertainment,0.004025302,0.538461538,3.629397734
+1149,"arts,film",entertainment,0.004600345,0.533333333,3.594832041
+1475,"global issues,storytelling",entertainment,0.004600345,0.533333333,3.594832041
+884,"physics,universe",science,0.005175388,0.818181818,3.592975207
+1042,"exploration,space",science,0.005175388,0.818181818,3.592975207
+181,money,business,0.004600345,0.533333333,3.580952381
+751,"terrorism,war",global issues,0.004025302,0.777777778,3.5781893
+1419,"culture,environment",global issues,0.004025302,0.777777778,3.5781893
+1510,"biology,technology",science,0.012650949,0.814814815,3.5781893
+1017,"demo,technology",design,0.010350776,0.642857143,3.571656778
+1523,"art,technology",design,0.010350776,0.642857143,3.571656778
+728,"business,choice",culture,0.004025302,0.875,3.56352459
+168,corruption,global issues,0.005750431,0.769230769,3.538868539
+938,"business,philanthropy",global issues,0.005750431,0.769230769,3.538868539
+160,simplicity,design,0.004025302,0.636363636,3.535579437
+174,play,design,0.004025302,0.636363636,3.535579437
+250,comedy,entertainment,0.006900518,0.52173913,3.516683519
+153,illness,science,0.004600345,0.8,3.513131313
+164,time,science,0.004600345,0.8,3.513131313
+255,biotech,science,0.00920069,0.8,3.513131313
+372,"biology,neurology",science,0.002300173,0.8,3.513131313
+405,"health,microbiology",science,0.002300173,0.8,3.513131313
+412,"cosmos,universe",science,0.002300173,0.8,3.513131313
+436,"chemistry,technology",science,0.002300173,0.8,3.513131313
+478,"astronomy,time",science,0.002300173,0.8,3.513131313
+693,"exploration,fish",science,0.002300173,0.8,3.513131313
+832,"astronomy,physics",science,0.004600345,0.8,3.513131313
+973,"biodiversity,exploration",science,0.002300173,0.8,3.513131313
+989,"disease,health care",science,0.002300173,0.8,3.513131313
+1116,"biology,oceans",science,0.002300173,0.8,3.513131313
+1196,"biology,exploration",science,0.002300173,0.8,3.513131313
+1387,"biology,collaboration",science,0.002300173,0.8,3.513131313
+1599,"physics,time,universe",science,0.002300173,0.8,3.513131313
+1609,"brain,mind,psychology",science,0.002300173,0.8,3.513131313
+1704,"astronomy,physics,universe",science,0.002300173,0.8,3.513131313
+1712,"astronomy,physics,technology",science,0.002300173,0.8,3.513131313
+1796,"climate change,environment,technology",science,0.002300173,0.8,3.513131313
+1810,"exploration,space,technology",science,0.004600345,0.8,3.513131313
+1813,"design,space,technology",science,0.002300173,0.8,3.513131313
+228,interface design,design,0.006900518,0.631578947,3.508996133
+602,"love,relationships",culture,0.003450259,0.857142857,3.490799599
+1975,"arts,global issues,storytelling",culture,0.003450259,0.857142857,3.490799599
+287,peace,global issues,0.014376078,0.757575758,3.485249319
+537,"prosthetics,technology",design,0.002875216,0.625,3.472444089
+547,"technology,toy",design,0.002875216,0.625,3.472444089
+1025,"art,visualizations",design,0.002875216,0.625,3.472444089
+1310,"arts,humor",design,0.002875216,0.625,3.472444089
+314,economics,business,0.028177113,0.515789474,3.463157895
+29,charter for compassion,global issues,0.003450259,0.75,3.450396825
+194,AIDS,global issues,0.005175388,0.75,3.450396825
+564,"AIDS,health",global issues,0.003450259,0.75,3.450396825
+1341,"politics,war",global issues,0.012075906,0.75,3.450396825
+1439,"cities,politics",global issues,0.003450259,0.75,3.450396825
+1458,"biology,medicine",science,0.006325474,0.785714286,3.450396825
+1542,"design,politics",global issues,0.003450259,0.75,3.450396825
+184,toy,design,0.004600345,0.615384615,3.419021873
+1440,"arts,cities",design,0.004600345,0.615384615,3.419021873
+76,neurology,science,0.004025302,0.777777778,3.415544332
+113,microbiology,science,0.004025302,0.777777778,3.415544332
+992,"disease,medicine",science,0.004025302,0.777777778,3.415544332
+55,Buddhism,culture,0.002875216,0.833333333,3.393832943
+724,"choice,psychology",culture,0.002875216,0.833333333,3.393832943
+727,"choice,economics",culture,0.002875216,0.833333333,3.393832943
+1376,"global issues,psychology",culture,0.002875216,0.833333333,3.393832943
+244,terrorism,global issues,0.008050604,0.736842105,3.389863548
+888,"technology,universe",science,0.005750431,0.769230769,3.378010878
+1001,"disease,technology",science,0.005750431,0.769230769,3.378010878
+1139,"biology,life",science,0.005750431,0.769230769,3.378010878
+238,investment,global issues,0.006325474,0.733333333,3.37372134
+83,performance art,entertainment,0.002300173,0.5,3.370155039
+227,dance,entertainment,0.005175388,0.5,3.370155039
+295,film,entertainment,0.012650949,0.5,3.370155039
+910,"book,culture",entertainment,0.002875216,0.5,3.370155039
+959,"culture,writing",entertainment,0.004025302,0.5,3.370155039
+981,"humanity,humor",entertainment,0.002875216,0.5,3.370155039
+1152,"design,film",entertainment,0.002300173,0.5,3.370155039
+1194,"design,media",entertainment,0.002875216,0.5,3.370155039
+1244,"performance,storytelling",entertainment,0.002300173,0.5,3.370155039
+1429,"children,design",entertainment,0.005175388,0.5,3.370155039
+1473,"arts,storytelling",entertainment,0.007475561,0.5,3.370155039
+1476,"storytelling,technology",entertainment,0.003450259,0.5,3.370155039
+1511,"arts,creativity",entertainment,0.008625647,0.5,3.370155039
+1530,"arts,education",entertainment,0.002875216,0.5,3.370155039
+2035,"arts,culture,global issues",entertainment,0.002300173,0.5,3.370155039
+1237,"biology,evolution",science,0.007475561,0.764705882,3.358140226
+78,plastic,business,0.002300173,0.5,3.357142857
+555,"design,industrial design",business,0.002875216,0.5,3.357142857
+636,"china,global issues",business,0.003450259,0.5,3.357142857
+678,"cars,transportation",business,0.002300173,0.5,3.357142857
+757,"development,third world",business,0.002300173,0.5,3.357142857
+1186,"green,TEDx",business,0.002300173,0.5,3.357142857
+1193,"culture,media",business,0.004025302,0.5,3.357142857
+1438,"cities,politics",business,0.002300173,0.5,3.357142857
+1443,"cities,global issues",business,0.005750431,0.5,3.357142857
+156,big problems,global issues,0.004600345,0.727272727,3.345839346
+716,"business,investment",global issues,0.004600345,0.727272727,3.345839346
+1022,"climate change,technology",global issues,0.004600345,0.727272727,3.345839346
+1169,"Africa,development",global issues,0.004600345,0.727272727,3.345839346
+1947,"business,cities,culture",global issues,0.004600345,0.727272727,3.345839346
+271,universe,science,0.010925819,0.76,3.337474747
+677,"interface design,technology",design,0.005175388,0.6,3.333546326
+1028,"technology,visualizations",design,0.005175388,0.6,3.333546326
+1072,"engineering,invention",design,0.003450259,0.6,3.333546326
+1428,"children,entertainment",design,0.005175388,0.6,3.333546326
+1436,"art,cities",design,0.003450259,0.6,3.333546326
+2023,"art,entertainment,technology",design,0.003450259,0.6,3.333546326
+2033,"arts,entertainment,technology",design,0.003450259,0.6,3.333546326
+91,hack,TEDx,0.002300173,0.5,3.31870229
+1420,"children,storytelling",TEDx,0.002300173,0.5,3.31870229
+233,fish,science,0.006900518,0.75,3.293560606
+236,cognitive science,science,0.006900518,0.75,3.293560606
+262,astronomy,science,0.010350776,0.75,3.293560606
+584,"Planets,space",science,0.003450259,0.75,3.293560606
+670,"medical research,technology",science,0.003450259,0.75,3.293560606
+703,"brain,cognitive science",science,0.003450259,0.75,3.293560606
+806,"biology,insects",science,0.003450259,0.75,3.293560606
+1113,"exploration,oceans",science,0.003450259,0.75,3.293560606
+1505,"biology,health",science,0.005175388,0.75,3.293560606
+1625,"Planets,space,technology",science,0.003450259,0.75,3.293560606
+34,natural disaster,global issues,0.002875216,0.714285714,3.286092215
+340,"disaster relief,natural disaster",global issues,0.002875216,0.714285714,3.286092215
+753,"politics,terrorism",global issues,0.002875216,0.714285714,3.286092215
+900,"politics,violence",global issues,0.002875216,0.714285714,3.286092215
+1131,"poverty,social change",global issues,0.002875216,0.714285714,3.286092215
+1164,"development,women",global issues,0.002875216,0.714285714,3.286092215
+1278,"politics,women",global issues,0.002875216,0.714285714,3.286092215
+1279,"business,women",global issues,0.002875216,0.714285714,3.286092215
+1322,"activism,science",global issues,0.002875216,0.714285714,3.286092215
+1363,"Africa,entertainment",global issues,0.002875216,0.714285714,3.286092215
+1390,"collaboration,politics",global issues,0.002875216,0.714285714,3.286092215
+1403,"politics,social change",global issues,0.005750431,0.714285714,3.286092215
+1689,"culture,democracy,politics",global issues,0.002875216,0.714285714,3.286092215
+1788,"climate change,environment,science",global issues,0.002875216,0.714285714,3.286092215
+1801,"climate change,science,technology",global issues,0.002875216,0.714285714,3.286092215
+1354,"animals,technology",design,0.005750431,0.588235294,3.268182672
+1431,"children,technology",design,0.005750431,0.588235294,3.268182672
+10,cooperation,culture,0.002300173,0.8,3.258079625
+363,"arts,conducting",culture,0.002300173,0.8,3.258079625
+391,"business,decision making",culture,0.002300173,0.8,3.258079625
+879,"entertainment,TED Prize",culture,0.002300173,0.8,3.258079625
+925,"collaboration,web",culture,0.002300173,0.8,3.258079625
+967,"poetry,politics",culture,0.002300173,0.8,3.258079625
+1399,"social change,storytelling",culture,0.002300173,0.8,3.258079625
+1450,"arts,brain",culture,0.002300173,0.8,3.258079625
+1565,"arts,conducting,music",culture,0.002300173,0.8,3.258079625
+1568,"conducting,entertainment,music",culture,0.002300173,0.8,3.258079625
+1571,"arts,conducting,entertainment",culture,0.002300173,0.8,3.258079625
+1692,"social change,social media,technology",culture,0.002300173,0.8,3.258079625
+1719,"cities,design,transportation",culture,0.002300173,0.8,3.258079625
+1819,"business,global issues,sustainability",culture,0.002300173,0.8,3.258079625
+1946,"business,cities,global issues",culture,0.004600345,0.8,3.258079625
+2038,"arts,conducting,entertainment,music",culture,0.002300173,0.8,3.258079625
+201,Planets,technology,0.006325474,1,3.256554307
+343,"NASA,space",technology,0.002300173,1,3.256554307
+376,"animals,biomechanics",technology,0.002300173,1,3.256554307
+378,"biomechanics,design",technology,0.002300173,1,3.256554307
+490,"security,terrorism",technology,0.002875216,1,3.256554307
+492,"computers,security",technology,0.002300173,1,3.256554307
+493,"security,TEDx",technology,0.002875216,1,3.256554307
+494,"global issues,security",technology,0.002875216,1,3.256554307
+521,"drones,robots",technology,0.002875216,1,3.256554307
+522,"design,drones",technology,0.002300173,1,3.256554307
+536,"design,prosthetics",technology,0.002875216,1,3.256554307
+576,"astronomy,Planets",technology,0.002300173,1,3.256554307
+580,"Planets,universe",technology,0.002875216,1,3.256554307
+586,"Planets,space",technology,0.004600345,1,3.256554307
+588,"life,Planets",technology,0.002300173,1,3.256554307
+591,"exploration,Planets",technology,0.004600345,1,3.256554307
+593,"Planets,science",technology,0.004600345,1,3.256554307
+597,"AI,design",technology,0.002300173,1,3.256554307
+616,"invention,materials",technology,0.002300173,1,3.256554307
+674,"demo,interface design",technology,0.003450259,1,3.256554307
+675,"computers,interface design",technology,0.003450259,1,3.256554307
+786,"biotech,genetics",technology,0.002300173,1,3.256554307
+788,"biotech,health care",technology,0.002300173,1,3.256554307
+831,"astronomy,life",technology,0.002300173,1,3.256554307
+835,"astronomy,exploration",technology,0.002300173,1,3.256554307
+842,"genetics,invention",technology,0.002300173,1,3.256554307
+917,"animals,robots",technology,0.002300173,1,3.256554307
+920,"business,robots",technology,0.003450259,1,3.256554307
+921,"entertainment,robots",technology,0.004025302,1,3.256554307
+922,"design,robots",technology,0.006900518,1,3.256554307
+1012,"business,demo",technology,0.002300173,1,3.256554307
+1018,"demo,science",technology,0.004025302,1,3.256554307
+1063,"energy,exploration",technology,0.002300173,1,3.256554307
+1071,"computers,engineering",technology,0.002875216,1,3.256554307
+1091,"entrepreneur,science",technology,0.002300173,1,3.256554307
+1158,"exploration,physics",technology,0.002300173,1,3.256554307
+1288,"computers,TEDx",technology,0.005175388,1,3.256554307
+1574,"animals,biomechanics,design",technology,0.002300173,1,3.256554307
+1602,"global issues,security,terrorism",technology,0.002300173,1,3.256554307
+1612,"exploration,Planets,universe",technology,0.002300173,1,3.256554307
+1620,"exploration,Planets,space",technology,0.003450259,1,3.256554307
+1624,"Planets,science,space",technology,0.003450259,1,3.256554307
+1627,"exploration,Planets,science",technology,0.004025302,1,3.256554307
+1649,"demo,design,interface design",technology,0.002300173,1,3.256554307
+1691,"culture,social change,social media",technology,0.002300173,1,3.256554307
+1697,"biotech,genetics,science",technology,0.002300173,1,3.256554307
+1699,"biotech,health care,science",technology,0.002300173,1,3.256554307
+1713,"astronomy,exploration,science",technology,0.002300173,1,3.256554307
+1715,"genetics,invention,science",technology,0.002300173,1,3.256554307
+1717,"alternative energy,energy,science",technology,0.002875216,1,3.256554307
+1735,"animals,design,robots",technology,0.002300173,1,3.256554307
+1737,"business,robots,science",technology,0.002300173,1,3.256554307
+1739,"design,robots,science",technology,0.002300173,1,3.256554307
+1774,"computers,Internet,TEDx",technology,0.002300173,1,3.256554307
+1812,"design,science,space",technology,0.002300173,1,3.256554307
+1814,"business,energy,science",technology,0.002300173,1,3.256554307
+1835,"exploration,physics,science",technology,0.002300173,1,3.256554307
+1850,"design,exploration,science",technology,0.002300173,1,3.256554307
+1868,"children,computers,education",technology,0.002300173,1,3.256554307
+1873,"computers,design,education",technology,0.002300173,1,3.256554307
+1887,"design,health care,medicine",technology,0.002300173,1,3.256554307
+1892,"design,health,health care",technology,0.002300173,1,3.256554307
+1898,"animals,design,science",technology,0.002875216,1,3.256554307
+1968,"business,medicine,science",technology,0.002300173,1,3.256554307
+1970,"design,medicine,science",technology,0.003450259,1,3.256554307
+1988,"business,invention,science",technology,0.003450259,1,3.256554307
+1991,"design,entertainment,invention",technology,0.002300173,1,3.256554307
+1993,"design,invention,science",technology,0.002300173,1,3.256554307
+1994,"culture,invention,science",technology,0.002875216,1,3.256554307
+2024,"business,health,science",technology,0.002875216,1,3.256554307
+2043,"exploration,Planets,science,space",technology,0.002875216,1,3.256554307
+1453,"brain,technology",science,0.009775733,0.739130435,3.245827844
+1544,"culture,politics",global issues,0.017826337,0.704545455,3.241281866
+1118,"oceans,technology",science,0.006325474,0.733333333,3.22037037
+200,Planets,science,0.004600345,0.727272727,3.193755739
+296,physics,science,0.01840138,0.727272727,3.193755739
+594,"Planets,technology",science,0.004600345,0.727272727,3.193755739
+999,"disease,global issues",science,0.004600345,0.727272727,3.193755739
+1343,"TEDx,war",global issues,0.005175388,0.692307692,3.184981685
+1362,"Africa,business",global issues,0.005175388,0.692307692,3.184981685
+25,sound,design,0.002300173,0.571428571,3.174806025
+56,fashion,design,0.002300173,0.571428571,3.174806025
+379,"biomechanics,technology",design,0.002300173,0.571428571,3.174806025
+620,"library,technology",design,0.002300173,0.571428571,3.174806025
+874,"culture,transportation",design,0.002300173,0.571428571,3.174806025
+1002,"data,visualizations",design,0.002300173,0.571428571,3.174806025
+1454,"invention,medicine",design,0.002300173,0.571428571,3.174806025
+1495,"entertainment,invention",design,0.002300173,0.571428571,3.174806025
+1515,"art,education",design,0.002300173,0.571428571,3.174806025
+1546,"arts,business",design,0.002300173,0.571428571,3.174806025
+1931,"children,education,technology",design,0.002300173,0.571428571,3.174806025
+850,"government,politics",global issues,0.006325474,0.6875,3.162863757
+264,genetics,science,0.010350776,0.72,3.161818182
+315,biology,science,0.040828062,0.717171717,3.149398021
+53,birds,science,0.002875216,0.714285714,3.136724387
+61,submarine,science,0.002875216,0.714285714,3.136724387
+220,DNA,science,0.005750431,0.714285714,3.136724387
+349,"oceans,submarine",science,0.002875216,0.714285714,3.136724387
+403,"biology,microbiology",science,0.002875216,0.714285714,3.136724387
+694,"animals,fish",science,0.002875216,0.714285714,3.136724387
+997,"disease,health",science,0.005750431,0.714285714,3.136724387
+1159,"physics,TEDx",science,0.002875216,0.714285714,3.136724387
+1314,"biology,TED Fellows",science,0.002875216,0.714285714,3.136724387
+1355,"animals,global issues",science,0.005750431,0.714285714,3.136724387
+1421,"biology,children",science,0.002875216,0.714285714,3.136724387
+1865,"brain,happiness,psychology",science,0.002875216,0.714285714,3.136724387
+1517,"art,arts",design,0.016101208,0.56,3.111309904
+284,demo,design,0.010925819,0.558823529,3.104773539
+837,"astronomy,technology",science,0.006900518,0.705882353,3.099821747
+907,"book,entertainment",design,0.002875216,0.555555556,3.086616968
+1297,"photography,storytelling",design,0.002875216,0.555555556,3.086616968
+1900,"animals,science,technology",design,0.002875216,0.555555556,3.086616968
+2002,"art,arts,creativity",design,0.002875216,0.555555556,3.086616968
+1016,"demo,design",technology,0.010350776,0.947368421,3.085156712
+826,"astronomy,universe",science,0.004025302,0.7,3.073989899
+1241,"evolution,technology",science,0.004025302,0.7,3.073989899
+106,iraq,global issues,0.003450259,0.666666667,3.0670194
+276,philanthropy,global issues,0.010350776,0.666666667,3.0670194
+407,"crime,prison",global issues,0.002300173,0.666666667,3.0670194
+766,"democracy,government",global issues,0.002300173,0.666666667,3.0670194
+767,"democracy,politics",global issues,0.008050604,0.666666667,3.0670194
+811,"crime,TEDx",global issues,0.002300173,0.666666667,3.0670194
+863,"alternative energy,invention",global issues,0.002300173,0.666666667,3.0670194
+895,"peace,violence",global issues,0.003450259,0.666666667,3.0670194
+1010,"politics,religion",global issues,0.002300173,0.666666667,3.0670194
+1090,"culture,entrepreneur",global issues,0.002300173,0.666666667,3.0670194
+1135,"culture,poverty",global issues,0.003450259,0.666666667,3.0670194
+1143,"film,photography",global issues,0.002300173,0.666666667,3.0670194
+1172,"development,health",global issues,0.002300173,0.666666667,3.0670194
+1189,"media,photography",global issues,0.002300173,0.666666667,3.0670194
+1317,"activism,collaboration",global issues,0.002300173,0.666666667,3.0670194
+1359,"Africa,health",global issues,0.003450259,0.666666667,3.0670194
+1409,"entertainment,social change",global issues,0.002300173,0.666666667,3.0670194
+1631,"culture,faith,religion",global issues,0.002300173,0.666666667,3.0670194
+1687,"democracy,government,politics",global issues,0.002300173,0.666666667,3.0670194
+1729,"peace,violence,war",global issues,0.002300173,0.666666667,3.0670194
+1772,"animals,biodiversity,science",global issues,0.002300173,0.666666667,3.0670194
+1445,"cities,culture",design,0.00920069,0.551724138,3.065329955
+80,sociology,culture,0.003450259,0.75,3.054449649
+1941,"arts,cities,design",culture,0.003450259,0.75,3.054449649
+1979,"entertainment,global issues,storytelling",culture,0.003450259,0.75,3.054449649
+791,"biotech,science",technology,0.008625647,0.9375,3.053019663
+316,politics,global issues,0.052328925,0.65942029,3.033682233
+1026,"science,visualizations",design,0.003450259,0.545454545,3.03049666
+1391,"arts,collaboration",design,0.003450259,0.545454545,3.03049666
+281,disease,science,0.011500863,0.689655172,3.028561477
+1506,"biology,TEDx",science,0.006325474,0.6875,3.019097222
+780,"entertainment,gaming",design,0.004025302,0.538461538,2.991644139
+1199,"exploration,technology",science,0.009775733,0.68,2.986161616
+166,security,technology,0.006325474,0.916666667,2.985174782
+1070,"energy,science",technology,0.006325474,0.916666667,2.985174782
+1077,"engineering,science",technology,0.006325474,0.916666667,2.985174782
+270,transportation,design,0.008625647,0.535714286,2.976380648
+1522,"art,entertainment",design,0.008625647,0.535714286,2.976380648
+1512,"arts,creativity",design,0.00920069,0.533333333,2.96315229
+1469,"medicine,technology",science,0.016676251,0.674418605,2.961651398
+923,"robots,science",technology,0.005750431,0.909090909,2.960503916
+1043,"exploration,space",technology,0.005750431,0.909090909,2.960503916
+1784,"demo,design,entertainment",technology,0.005750431,0.909090909,2.960503916
+7,deextinction,science,0.002300173,0.666666667,2.927609428
+165,military,global issues,0.004025302,0.636363636,2.927609428
+248,democracy,global issues,0.008050604,0.636363636,2.927609428
+293,oceans,science,0.017251294,0.666666667,2.927609428
+370,"brain,neurology",science,0.002300173,0.666666667,2.927609428
+430,"heart health,medicine",science,0.002300173,0.666666667,2.927609428
+439,"bees,insects",science,0.002300173,0.666666667,2.927609428
+525,"mind,psychology",science,0.002300173,0.666666667,2.927609428
+611,"cancer,medicine",science,0.003450259,0.666666667,2.927609428
+658,"biology,DNA",science,0.002300173,0.666666667,2.927609428
+705,"cognitive science,technology",science,0.002300173,0.666666667,2.927609428
+739,"brain,neuroscience",science,0.005750431,0.666666667,2.927609428
+789,"biology,biotech",science,0.002300173,0.666666667,2.927609428
+840,"evolution,genetics",science,0.002300173,0.666666667,2.927609428
+915,"math,technology",science,0.003450259,0.666666667,2.927609428
+919,"business,robots",science,0.002300173,0.666666667,2.927609428
+995,"biology,disease",science,0.002300173,0.666666667,2.927609428
+1117,"global issues,oceans",science,0.003450259,0.666666667,2.927609428
+1195,"animals,exploration",science,0.002300173,0.666666667,2.927609428
+1311,"medicine,TED Fellows",science,0.002300173,0.666666667,2.927609428
+1365,"Africa,science",global issues,0.004025302,0.636363636,2.927609428
+1465,"business,medicine",science,0.002300173,0.666666667,2.927609428
+1528,"education,politics",global issues,0.004025302,0.636363636,2.927609428
+1708,"astronomy,technology,universe",science,0.002300173,0.666666667,2.927609428
+1738,"business,robots,technology",science,0.002300173,0.666666667,2.927609428
+1776,"disease,health,medicine",science,0.002300173,0.666666667,2.927609428
+1778,"biology,disease,health",science,0.002300173,0.666666667,2.927609428
+1815,"business,energy,technology",science,0.002300173,0.666666667,2.927609428
+1851,"design,exploration,technology",science,0.002300173,0.666666667,2.927609428
+1987,"business,invention,technology",design,0.005750431,0.526315789,2.924163444
+574,"entertainment,literature",culture,0.002875216,0.714285714,2.908999665
+605,"relationships,sex",culture,0.002875216,0.714285714,2.908999665
+1049,"psychology,society",culture,0.002875216,0.714285714,2.908999665
+1055,"business,society",culture,0.002875216,0.714285714,2.908999665
+1225,"business,future",culture,0.002875216,0.714285714,2.908999665
+1375,"entertainment,psychology",culture,0.002875216,0.714285714,2.908999665
+1472,"education,storytelling",culture,0.002875216,0.714285714,2.908999665
+1911,"business,collaboration,technology",culture,0.002875216,0.714285714,2.908999665
+2026,"education,global issues,politics",culture,0.002875216,0.714285714,2.908999665
+1809,"exploration,science,space",technology,0.004600345,0.888888889,2.89471494
+1493,"business,invention",design,0.007475561,0.52,2.889073482
+562,"Africa,AIDS",global issues,0.002875216,0.625,2.875330688
+759,"development,third world",global issues,0.002875216,0.625,2.875330688
+770,"culture,democracy",global issues,0.002875216,0.625,2.875330688
+797,"Asia,culture",global issues,0.002875216,0.625,2.875330688
+1276,"economics,women",global issues,0.002875216,0.625,2.875330688
+1320,"activism,politics",global issues,0.002875216,0.625,2.875330688
+2029,"business,culture,politics",global issues,0.002875216,0.625,2.875330688
+239,choice,culture,0.006900518,0.705882353,2.87477614
+1498,"invention,science",technology,0.008625647,0.882352941,2.873430271
+294,poverty,global issues,0.013225992,0.621621622,2.85978836
+308,war,global issues,0.023576768,0.621212121,2.857904441
+1513,"creativity,technology",design,0.010350776,0.514285714,2.857325422
+1059,"global issues,philosophy",culture,0.004025302,0.7,2.850819672
+1922,"global issues,politics,social change",culture,0.004025302,0.7,2.850819672
+90,biomechanics,technology,0.004025302,0.875,2.849485019
+274,robots,technology,0.016101208,0.875,2.849485019
+595,"AI,robots",technology,0.004025302,0.875,2.849485019
+1963,"design,health,medicine",technology,0.004025302,0.875,2.849485019
+257,Asia,global issues,0.007475561,0.619047619,2.847946586
+1142,"life,technology",science,0.005175388,0.642857143,2.823051948
+1393,"business,collaboration",culture,0.005175388,0.692307692,2.819491983
+1441,"arts,cities",culture,0.005175388,0.692307692,2.819491983
+241,neuroscience,science,0.00920069,0.64,2.810505051
+1545,"politics,technology",global issues,0.008050604,0.608695652,2.800322061
+1023,"climate change,technology",science,0.004025302,0.636363636,2.794536272
+203,AI,technology,0.006900518,0.857142857,2.791332263
+867,"alternative energy,science",technology,0.003450259,0.857142857,2.791332263
+886,"exploration,universe",technology,0.003450259,0.857142857,2.791332263
+1011,"demo,invention",technology,0.003450259,0.857142857,2.791332263
+1067,"business,energy",technology,0.003450259,0.857142857,2.791332263
+1068,"design,energy",technology,0.003450259,0.857142857,2.791332263
+1467,"design,medicine",technology,0.006900518,0.857142857,2.791332263
+1984,"design,entertainment,music",technology,0.003450259,0.857142857,2.791332263
+84,map,design,0.002875216,0.5,2.777955272
+88,biomechanics,design,0.002300173,0.5,2.777955272
+140,sight,design,0.002875216,0.5,2.777955272
+254,gaming,design,0.006325474,0.5,2.777955272
+681,"cars,transportation",design,0.002300173,0.5,2.777955272
+848,"sports,technology",design,0.002300173,0.5,2.777955272
+1185,"cities,green",design,0.002300173,0.5,2.777955272
+1239,"evolution,technology",design,0.002875216,0.5,2.777955272
+1304,"photography,technology",design,0.002300173,0.5,2.777955272
+1308,"art,humor",design,0.003450259,0.5,2.777955272
+1414,"cities,environment",design,0.002875216,0.5,2.777955272
+1481,"art,music",design,0.002300173,0.5,2.777955272
+1490,"creativity,invention",design,0.003450259,0.5,2.777955272
+2012,"business,creativity,culture",design,0.002300173,0.5,2.777955272
+302,evolution,science,0.016676251,0.630434783,2.76850022
+256,biotech,technology,0.009775733,0.85,2.768071161
+115,prison,global issues,0.003450259,0.6,2.76031746
+151,Europe,global issues,0.003450259,0.6,2.76031746
+1020,"climate change,science",global issues,0.005175388,0.6,2.76031746
+1316,"activism,Africa",global issues,0.003450259,0.6,2.76031746
+1272,"innovation,science",technology,0.006325474,0.846153846,2.755545952
+843,"biology,genetics",science,0.002875216,0.625,2.744633838
+1448,"brain,health",science,0.002875216,0.625,2.744633838
+1787,"climate change,environment,global issues",science,0.002875216,0.625,2.744633838
+1800,"climate change,global issues,technology",science,0.002875216,0.625,2.744633838
+298,exploration,science,0.016101208,0.622222222,2.732435466
+13,men,culture,0.002300173,0.666666667,2.715066354
+103,decision making,culture,0.003450259,0.666666667,2.715066354
+359,"conducting,music",culture,0.002300173,0.666666667,2.715066354
+365,"conducting,entertainment",culture,0.002300173,0.666666667,2.715066354
+409,"crime,prison",culture,0.002300173,0.666666667,2.715066354
+570,"literature,poetry",culture,0.002300173,0.666666667,2.715066354
+632,"china,economics",culture,0.002300173,0.666666667,2.715066354
+776,"social change,social media",culture,0.002300173,0.666666667,2.715066354
+800,"psychology,self",culture,0.003450259,0.666666667,2.715066354
+802,"brain,self",culture,0.002300173,0.666666667,2.715066354
+869,"cities,transportation",culture,0.002300173,0.666666667,2.715066354
+928,"entertainment,web",culture,0.002300173,0.666666667,2.715066354
+1264,"economics,happiness",culture,0.002300173,0.666666667,2.715066354
+1318,"activism,collaboration",culture,0.002300173,0.666666667,2.715066354
+1321,"activism,arts",culture,0.003450259,0.666666667,2.715066354
+1386,"collaboration,invention",culture,0.002300173,0.666666667,2.715066354
+1410,"entertainment,social change",culture,0.002300173,0.666666667,2.715066354
+1637,"china,economics,global issues",culture,0.002300173,0.666666667,2.715066354
+1831,"arts,film,global issues",culture,0.002300173,0.666666667,2.715066354
+1928,"environment,global issues,technology",culture,0.002300173,0.666666667,2.715066354
+1939,"art,cities,design",culture,0.002300173,0.666666667,2.715066354
+1949,"cities,design,global issues",culture,0.002300173,0.666666667,2.715066354
+2034,"arts,entertainment,global issues",culture,0.002300173,0.666666667,2.715066354
+2056,"art,arts,cities,design",culture,0.002300173,0.666666667,2.715066354
+778,"social change,social media",technology,0.002875216,0.833333333,2.713795256
+1065,"energy,invention",technology,0.002875216,0.833333333,2.713795256
+1284,"children,computers",technology,0.002875216,0.833333333,2.713795256
+1722,"exploration,science,universe",technology,0.002875216,0.833333333,2.713795256
+297,development,global issues,0.013225992,0.58974359,2.713132546
+1280,"culture,women",global issues,0.005750431,0.588235294,2.706193589
+1078,"engineering,technology",science,0.006325474,0.611111111,2.683641975
+285,demo,technology,0.016101208,0.823529412,2.681868253
+279,biodiversity,science,0.009775733,0.607142857,2.666215729
+1538,"politics,TEDx",global issues,0.006325474,0.578947368,2.663464216
+1539,"business,politics",global issues,0.006325474,0.578947368,2.663464216
+171,bacteria,science,0.003450259,0.6,2.634848485
+829,"astronomy,space",science,0.003450259,0.6,2.634848485
+1234,"animals,evolution",science,0.003450259,0.6,2.634848485
+118,Google,global issues,0.002300173,0.571428571,2.628873772
+167,compassion,global issues,0.004600345,0.571428571,2.628873772
+309,Africa,global issues,0.020701553,0.571428571,2.628873772
+625,"culture,faith",global issues,0.002300173,0.571428571,2.628873772
+664,"women,women in business",global issues,0.002300173,0.571428571,2.628873772
+737,"economics,statistics",global issues,0.002300173,0.571428571,2.628873772
+772,"business,inequality",global issues,0.002300173,0.571428571,2.628873772
+891,"law,politics",global issues,0.002300173,0.571428571,2.628873772
+1133,"poverty,TEDx",global issues,0.002300173,0.571428571,2.628873772
+1170,"development,invention",global issues,0.002300173,0.571428571,2.628873772
+1277,"education,women",global issues,0.002300173,0.571428571,2.628873772
+1293,"photography,TED Fellows",global issues,0.002300173,0.571428571,2.628873772
+1344,"entertainment,war",global issues,0.002300173,0.571428571,2.628873772
+1347,"Africa,animals",global issues,0.002300173,0.571428571,2.628873772
+1388,"collaboration,education",global issues,0.002300173,0.571428571,2.628873772
+1537,"arts,politics",global issues,0.002300173,0.571428571,2.628873772
+1832,"arts,culture,film",global issues,0.002300173,0.571428571,2.628873772
+2031,"culture,entertainment,politics",global issues,0.002300173,0.571428571,2.628873772
+207,relationships,culture,0.005175388,0.642857143,2.618099699
+39,NASA,technology,0.002300173,0.8,2.605243446
+347,"collaboration,wikipedia",technology,0.002300173,0.8,2.605243446
+542,"invention,toy",technology,0.002300173,0.8,2.605243446
+544,"education,toy",technology,0.002300173,0.8,2.605243446
+619,"design,library",technology,0.002300173,0.8,2.605243446
+659,"DNA,science",technology,0.004600345,0.8,2.605243446
+683,"business,cars",technology,0.002300173,0.8,2.605243446
+774,"demo,software",technology,0.002300173,0.8,2.605243446
+809,"crime,Internet",technology,0.002300173,0.8,2.605243446
+847,"design,sports",technology,0.002300173,0.8,2.605243446
+865,"alternative energy,business",technology,0.002300173,0.8,2.605243446
+926,"education,web",technology,0.002300173,0.8,2.605243446
+990,"disease,health care",technology,0.002300173,0.8,2.605243446
+1285,"brain,computers",technology,0.002300173,0.8,2.605243446
+1333,"business,health care",technology,0.002300173,0.8,2.605243446
+1334,"design,health care",technology,0.004600345,0.8,2.605243446
+1379,"history,invention",technology,0.002300173,0.8,2.605243446
+1646,"DNA,genetics,science",technology,0.002300173,0.8,2.605243446
+1658,"animals,fish,science",technology,0.002300173,0.8,2.605243446
+1871,"children,computers,design",technology,0.002300173,0.8,2.605243446
+1930,"children,design,education",technology,0.002300173,0.8,2.605243446
+169,race,culture,0.004025302,0.636363636,2.591654247
+258,self,culture,0.008050604,0.636363636,2.591654247
+958,"entertainment,writing",culture,0.004025302,0.636363636,2.591654247
+1392,"arts,collaboration",culture,0.004025302,0.636363636,2.591654247
+1346,"technology,war",global issues,0.005175388,0.5625,2.587797619
+260,crime,global issues,0.008050604,0.56,2.576296296
+266,government,global issues,0.008050604,0.56,2.576296296
+229,interface design,technology,0.008625647,0.789473684,2.570963927
+1048,"space,technology",science,0.008050604,0.583333333,2.561658249
+178,drones,technology,0.006325474,0.785714286,2.558721241
+860,"alternative energy,energy",technology,0.006325474,0.785714286,2.558721241
+107,world cultures,global issues,0.002875216,0.555555556,2.5558495
+1229,"culture,future",global issues,0.002875216,0.555555556,2.5558495
+1298,"photography,storytelling",global issues,0.002875216,0.555555556,2.5558495
+1442,"business,cities",global issues,0.005750431,0.555555556,2.5558495
+2028,"culture,politics,TEDx",global issues,0.002875216,0.555555556,2.5558495
+854,"language,TEDx",culture,0.002875216,0.625,2.545374707
+1056,"global issues,society",culture,0.002875216,0.625,2.545374707
+1936,"art,arts,cities",culture,0.002875216,0.625,2.545374707
+617,"design,materials",technology,0.004025302,0.777777778,2.532875572
+1228,"design,future",technology,0.004025302,0.777777778,2.532875572
+1489,"design,music",technology,0.004025302,0.777777778,2.532875572
+311,medicine,science,0.030477286,0.576086957,2.529836408
+434,"health,heart health",science,0.002300173,0.571428571,2.509379509
+508,"bacteria,biology",science,0.002300173,0.571428571,2.509379509
+615,"cancer,technology",science,0.002300173,0.571428571,2.509379509
+804,"biology,sex",science,0.002300173,0.571428571,2.509379509
+882,"space,universe",science,0.002300173,0.571428571,2.509379509
+1045,"design,space",science,0.002300173,0.571428571,2.509379509
+1066,"business,energy",science,0.002300173,0.571428571,2.509379509
+1092,"biology,food",science,0.002300173,0.571428571,2.509379509
+1093,"business,food",global issues,0.003450259,0.545454545,2.509379509
+1123,"development,poverty",global issues,0.003450259,0.545454545,2.509379509
+1348,"Africa,animals",science,0.002300173,0.571428571,2.509379509
+1455,"invention,medicine",science,0.002300173,0.571428571,2.509379509
+1710,"astronomy,space,technology",science,0.002300173,0.571428571,2.509379509
+2000,"biology,design,technology",science,0.002300173,0.571428571,2.509379509
+196,literature,culture,0.004600345,0.615384615,2.506215096
+1972,"arts,entertainment,storytelling",culture,0.004600345,0.615384615,2.506215096
+1015,"demo,entertainment",technology,0.005750431,0.769230769,2.505041775
+1986,"business,design,invention",technology,0.005750431,0.769230769,2.505041775
+282,religion,global issues,0.010925819,0.542857143,2.497430083
+286,climate change,global issues,0.010925819,0.542857143,2.497430083
+1444,"business,cities",culture,0.006325474,0.611111111,2.488810825
+273,violence,global issues,0.008050604,0.538461538,2.477207977
+621,"faith,religion",global issues,0.004025302,0.538461538,2.477207977
+1095,"culture,food",global issues,0.004025302,0.538461538,2.477207977
+1367,"Africa,technology",global issues,0.004025302,0.538461538,2.477207977
+1494,"business,invention",technology,0.010925819,0.76,2.474981273
+307,computers,technology,0.023576768,0.759259259,2.472569011
+306,women,global issues,0.016676251,0.537037037,2.470654517
+288,space,science,0.010925819,0.558823529,2.45402555
+1366,"Africa,culture",global issues,0.004600345,0.533333333,2.45361552
+511,"God,religion",culture,0.003450259,0.6,2.443559719
+1220,"communication,TEDx",culture,0.003450259,0.6,2.443559719
+1223,"communication,design",culture,0.003450259,0.6,2.443559719
+1268,"entertainment,happiness",culture,0.003450259,0.6,2.443559719
+1477,"global issues,storytelling",culture,0.005175388,0.6,2.443559719
+92,hack,technology,0.003450259,0.75,2.44241573
+676,"design,interface design",technology,0.005175388,0.75,2.44241573
+779,"culture,social media",technology,0.003450259,0.75,2.44241573
+927,"business,web",technology,0.003450259,0.75,2.44241573
+1062,"energy,green",technology,0.003450259,0.75,2.44241573
+1231,"future,science",technology,0.005175388,0.75,2.44241573
+1287,"computers,education",technology,0.005175388,0.75,2.44241573
+1292,"computers,science",technology,0.003450259,0.75,2.44241573
+1526,"design,health",technology,0.005175388,0.75,2.44241573
+123,morality,science,0.002875216,0.555555556,2.439674523
+145,bees,science,0.002875216,0.555555556,2.439674523
+527,"brain,mind",science,0.002875216,0.555555556,2.439674523
+1260,"brain,happiness",science,0.002875216,0.555555556,2.439674523
+1958,"health,medicine,TEDx",science,0.002875216,0.555555556,2.439674523
+1995,"culture,invention,technology",science,0.002875216,0.555555556,2.439674523
+223,women in business,global issues,0.005175388,0.529411765,2.43557423
+1323,"activism,culture",global issues,0.005175388,0.529411765,2.43557423
+224,journalism,global issues,0.005750431,0.526315789,2.421331106
+208,cancer,science,0.006325474,0.55,2.415277778
+1047,"science,space",technology,0.008050604,0.736842105,2.399566332
+519,"brain,consciousness",science,0.003450259,0.545454545,2.395316804
+977,"animals,biodiversity",science,0.003450259,0.545454545,2.395316804
+1352,"animals,TEDx",science,0.003450259,0.545454545,2.395316804
+1904,"brain,culture,psychology",science,0.003450259,0.545454545,2.395316804
+1553,"design,science",technology,0.014376078,0.735294118,2.394525226
+1371,"brain,psychology",science,0.007475561,0.541666667,2.37868266
+1192,"business,media",culture,0.004025302,0.583333333,2.37568306
+180,mind,science,0.004025302,0.538461538,2.364607615
+1240,"culture,evolution",science,0.004025302,0.538461538,2.364607615
+1351,"animals,biology",science,0.004025302,0.538461538,2.364607615
+243,parenting,culture,0.006325474,0.578947368,2.357820781
+1290,"computers,design",technology,0.007475561,0.722222222,2.351955888
+58,wikipedia,culture,0.002300173,0.571428571,2.327199732
+71,conducting,culture,0.002300173,0.571428571,2.327199732
+624,"faith,global issues",culture,0.002300173,0.571428571,2.327199732
+1008,"philosophy,religion",culture,0.002300173,0.571428571,2.327199732
+1037,"collaboration,community",culture,0.002300173,0.571428571,2.327199732
+1057,"science,society",culture,0.002300173,0.571428571,2.327199732
+1364,"Africa,entertainment",culture,0.002300173,0.571428571,2.327199732
+1389,"collaboration,education",culture,0.002300173,0.571428571,2.327199732
+1404,"politics,social change",culture,0.004600345,0.571428571,2.327199732
+1427,"arts,children",culture,0.002300173,0.571428571,2.327199732
+1630,"faith,global issues,religion",culture,0.002300173,0.571428571,2.327199732
+2030,"entertainment,global issues,politics",culture,0.002300173,0.571428571,2.327199732
+2037,"business,design,global issues",culture,0.002300173,0.571428571,2.327199732
+47,telecom,technology,0.002875216,0.714285714,2.326110219
+59,wikipedia,technology,0.002875216,0.714285714,2.326110219
+987,"Internet,TEDx",technology,0.002875216,0.714285714,2.326110219
+1046,"design,space",technology,0.002875216,0.714285714,2.326110219
+1112,"science,sustainability",technology,0.002875216,0.714285714,2.326110219
+1238,"design,evolution",technology,0.002875216,0.714285714,2.326110219
+1353,"animals,design",technology,0.005750431,0.714285714,2.326110219
+1478,"science,storytelling",technology,0.002875216,0.714285714,2.326110219
+1496,"entertainment,invention",technology,0.002875216,0.714285714,2.326110219
+1694,"design,entertainment,gaming",technology,0.002875216,0.714285714,2.326110219
+1356,"animals,technology",science,0.005175388,0.529411765,2.32486631
+310,brain,science,0.027027027,0.528089888,2.319061401
+263,astronomy,technology,0.009775733,0.708333333,2.306725968
+1463,"health,medicine",science,0.012075906,0.525,2.305492424
+51,news,global issues,0.002300173,0.5,2.30026455
+67,protests,global issues,0.002300173,0.5,2.30026455
+154,Egypt,global issues,0.002875216,0.5,2.30026455
+225,medical research,science,0.006325474,0.523809524,2.30026455
+249,inequality,global issues,0.005750431,0.5,2.30026455
+940,"culture,philanthropy",global issues,0.002875216,0.5,2.30026455
+1156,"culture,film",global issues,0.003450259,0.5,2.30026455
+1296,"environment,photography",global issues,0.002300173,0.5,2.30026455
+1401,"education,social change",global issues,0.002300173,0.5,2.30026455
+1407,"social change,TEDx",global issues,0.002300173,0.5,2.30026455
+1540,"entertainment,politics",global issues,0.004025302,0.5,2.30026455
+1543,"politics,science",global issues,0.003450259,0.5,2.30026455
+1781,"disease,health,science",global issues,0.002875216,0.5,2.30026455
+1976,"arts,culture,storytelling",global issues,0.003450259,0.5,2.30026455
+289,space,technology,0.013801035,0.705882353,2.298744217
+259,insects,science,0.006900518,0.52173913,2.291172596
+830,"astronomy,space",technology,0.004025302,0.7,2.279588015
+1551,"business,science",technology,0.013225992,0.696969697,2.269719669
+1336,"health care,technology",science,0.00920069,0.516129032,2.266536331
+1527,"health,technology",science,0.00920069,0.516129032,2.266536331
+124,morality,culture,0.002875216,0.555555556,2.262555295
+157,potential,culture,0.002875216,0.555555556,2.262555295
+909,"book,entertainment",culture,0.002875216,0.555555556,2.262555295
+1058,"philosophy,TEDx",culture,0.002875216,0.555555556,2.262555295
+1262,"brain,happiness",culture,0.002875216,0.555555556,2.262555295
+1299,"photography,storytelling",culture,0.002875216,0.555555556,2.262555295
+1319,"activism,social change",culture,0.002875216,0.555555556,2.262555295
+1370,"children,psychology",culture,0.002875216,0.555555556,2.262555295
+1373,"economics,psychology",culture,0.002875216,0.555555556,2.262555295
+1895,"global issues,TEDx,war",culture,0.002875216,0.555555556,2.262555295
+210,materials,technology,0.005175388,0.692307692,2.254537597
+986,"computers,Internet",technology,0.005175388,0.692307692,2.254537597
+1446,"cities,global issues",culture,0.006325474,0.55,2.239929742
+173,God,culture,0.003450259,0.545454545,2.221417926
+1094,"business,food",culture,0.003450259,0.545454545,2.221417926
+1235,"brain,evolution",culture,0.003450259,0.545454545,2.221417926
+1382,"global issues,history",culture,0.003450259,0.545454545,2.221417926
+1529,"education,politics",culture,0.003450259,0.545454545,2.221417926
+283,religion,culture,0.010925819,0.542857143,2.210839746
+290,society,culture,0.010925819,0.542857143,2.210839746
+305,happiness,culture,0.015526164,0.54,2.199203747
+79,plastic,science,0.002300173,0.5,2.195707071
+89,biomechanics,science,0.002300173,0.5,2.195707071
+95,biomimicry,science,0.002300173,0.5,2.195707071
+132,heart health,science,0.002875216,0.5,2.195707071
+136,pollution,science,0.002300173,0.5,2.195707071
+912,"math,physics",science,0.002300173,0.5,2.195707071
+978,"biodiversity,biology",science,0.002875216,0.5,2.195707071
+1096,"food,technology",science,0.002300173,0.5,2.195707071
+1327,"health care,medicine",science,0.00920069,0.5,2.195707071
+1417,"biology,environment",science,0.002300173,0.5,2.195707071
+1449,"brain,education",science,0.002300173,0.5,2.195707071
+1524,"business,health",science,0.002875216,0.5,2.195707071
+1890,"health care,medicine,technology",science,0.004600345,0.5,2.195707071
+1899,"animals,design,technology",science,0.002875216,0.5,2.195707071
+1966,"health,medicine,technology",science,0.005175388,0.5,2.195707071
+1971,"design,medicine,technology",science,0.003450259,0.5,2.195707071
+186,identity,culture,0.004025302,0.538461538,2.192938209
+1411,"global issues,social change",culture,0.00920069,0.533333333,2.172053084
+43,solar energy,technology,0.002300173,0.666666667,2.171036205
+46,extraterrestrial life,technology,0.002300173,0.666666667,2.171036205
+48,TEDBooks,technology,0.002300173,0.666666667,2.171036205
+128,flight,technology,0.003450259,0.666666667,2.171036205
+183,prosthetics,technology,0.004600345,0.666666667,2.171036205
+291,energy,technology,0.013801035,0.666666667,2.171036205
+656,"DNA,genetics",technology,0.002300173,0.666666667,2.171036205
+790,"biology,biotech",technology,0.002300173,0.666666667,2.171036205
+836,"astronomy,science",technology,0.006900518,0.666666667,2.171036205
+864,"alternative energy,invention",technology,0.002300173,0.666666667,2.171036205
+872,"invention,transportation",technology,0.002300173,0.666666667,2.171036205
+889,"Internet,law",technology,0.002300173,0.666666667,2.171036205
+918,"robots,TEDx",technology,0.002300173,0.666666667,2.171036205
+935,"education,philanthropy",technology,0.002300173,0.666666667,2.171036205
+1076,"engineering,TEDx",technology,0.002300173,0.666666667,2.171036205
+1179,"development,science",technology,0.002300173,0.666666667,2.171036205
+1232,"culture,future",technology,0.003450259,0.666666667,2.171036205
+1281,"computers,history",technology,0.002300173,0.666666667,2.171036205
+1289,"computers,entertainment",technology,0.002300173,0.666666667,2.171036205
+1315,"creativity,TED Fellows",technology,0.002300173,0.666666667,2.171036205
+1466,"business,medicine",technology,0.002300173,0.666666667,2.171036205
+1709,"astronomy,science,space",technology,0.002300173,0.666666667,2.171036205
+1807,"physics,science,space",technology,0.002300173,0.666666667,2.171036205
+1953,"biology,health,medicine",technology,0.002300173,0.666666667,2.171036205
+1999,"biology,design,science",technology,0.002300173,0.666666667,2.171036205
+2061,"biology,health,medicine,science",technology,0.002300173,0.666666667,2.171036205
+1413,"social change,technology",culture,0.005175388,0.529411765,2.156082105
+301,future,technology,0.017826337,0.659574468,2.147940075
+1536,"education,science",technology,0.010925819,0.655172414,2.133604546
+1497,"design,invention",technology,0.013801035,0.648648649,2.112359551
+1535,"education,global issues",culture,0.008625647,0.517241379,2.106516999
+267,language,culture,0.009775733,0.515151515,2.098005819
+1230,"future,global issues",technology,0.004025302,0.636363636,2.072352741
+1956,"biology,medicine,science",technology,0.004025302,0.636363636,2.072352741
+251,software,technology,0.006900518,0.631578947,2.056771141
+116,prison,culture,0.002875216,0.5,2.036299766
+155,Egypt,culture,0.002875216,0.5,2.036299766
+211,library,culture,0.003450259,0.5,2.036299766
+548,"business,marketing",culture,0.002875216,0.5,2.036299766
+813,"children,youth",culture,0.002300173,0.5,2.036299766
+818,"collaboration,open source",culture,0.002300173,0.5,2.036299766
+877,"arts,TED Prize",culture,0.002300173,0.5,2.036299766
+902,"book,writing",culture,0.002300173,0.5,2.036299766
+970,"entertainment,poetry",culture,0.004600345,0.5,2.036299766
+1051,"social change,society",culture,0.002875216,0.5,2.036299766
+1147,"film,storytelling",culture,0.002875216,0.5,2.036299766
+1155,"film,global issues",culture,0.003450259,0.5,2.036299766
+1221,"business,communication",culture,0.003450259,0.5,2.036299766
+1245,"performance,storytelling",culture,0.002300173,0.5,2.036299766
+1395,"collaboration,global issues",culture,0.004600345,0.5,2.036299766
+1402,"education,social change",culture,0.002300173,0.5,2.036299766
+1437,"art,cities",culture,0.002875216,0.5,2.036299766
+1531,"arts,education",culture,0.002875216,0.5,2.036299766
+1533,"education,entertainment",culture,0.004600345,0.5,2.036299766
+1541,"entertainment,politics",culture,0.004025302,0.5,2.036299766
+1548,"arts,global issues",culture,0.004600345,0.5,2.036299766
+1549,"business,entertainment",culture,0.008625647,0.5,2.036299766
+1671,"business,global issues,investment",culture,0.002300173,0.5,2.036299766
+1874,"art,arts,photography",culture,0.002300173,0.5,2.036299766
+2011,"business,creativity,design",culture,0.002300173,0.5,2.036299766
+81,sociology,technology,0.002875216,0.625,2.035346442
+231,cars,technology,0.005750431,0.625,2.035346442
+252,social media,technology,0.008625647,0.625,2.035346442
+546,"design,toy",technology,0.002875216,0.625,2.035346442
+873,"business,transportation",technology,0.002875216,0.625,2.035346442
+1069,"energy,global issues",technology,0.002875216,0.625,2.035346442
+1114,"exploration,oceans",technology,0.002875216,0.625,2.035346442
+1291,"computers,global issues",technology,0.002875216,0.625,2.035346442
+1989,"business,culture,invention",technology,0.002875216,0.625,2.035346442
+2013,"creativity,design,entertainment",technology,0.002875216,0.625,2.035346442
+275,web,technology,0.010350776,0.620689655,2.02130957
+280,Internet,technology,0.012075906,0.617647059,2.01140119
+185,toy,technology,0.004600345,0.615384615,2.00403342
+1198,"exploration,science",technology,0.009775733,0.607142857,1.977193686
+1552,"design,entertainment",technology,0.019551466,0.607142857,1.977193686
+313,invention,technology,0.028177113,0.604938272,1.970014334
+827,"astronomy,universe",technology,0.003450259,0.6,1.953932584
+1197,"design,exploration",technology,0.003450259,0.6,1.953932584
+1525,"business,health",technology,0.003450259,0.6,1.953932584
+269,alternative energy,technology,0.007475561,0.590909091,1.924327545
+212,library,technology,0.004025302,0.583333333,1.899656679
+119,Google,technology,0.002300173,0.571428571,1.860888175
+221,DNA,technology,0.004600345,0.571428571,1.860888175
+426,"design,flight",technology,0.002300173,0.571428571,1.860888175
+556,"business,industrial design",technology,0.002300173,0.571428571,1.860888175
+695,"animals,fish",technology,0.002300173,0.571428571,1.860888175
+775,"entertainment,software",technology,0.002300173,0.571428571,1.860888175
+881,"science,TED Prize",technology,0.002300173,0.571428571,1.860888175
+883,"space,universe",technology,0.002300173,0.571428571,1.860888175
+988,"global issues,Internet",technology,0.002300173,0.571428571,1.860888175
+1004,"data,visualizations",technology,0.002300173,0.571428571,1.860888175
+1041,"physics,space",technology,0.002300173,0.571428571,1.860888175
+1227,"business,future",technology,0.002300173,0.571428571,1.860888175
+1381,"business,history",technology,0.002300173,0.571428571,1.860888175
+1412,"science,social change",technology,0.002300173,0.571428571,1.860888175
+1456,"invention,medicine",technology,0.002300173,0.571428571,1.860888175
+1459,"biology,medicine",technology,0.004600345,0.571428571,1.860888175
+1534,"design,education",technology,0.006900518,0.571428571,1.860888175
+1707,"astronomy,science,universe",technology,0.002300173,0.571428571,1.860888175
+1795,"climate change,environment,science",technology,0.002300173,0.571428571,1.860888175
+1927,"culture,environment,global issues",technology,0.002300173,0.571428571,1.860888175
+1027,"design,visualizations",technology,0.005175388,0.5625,1.831811798
+299,exploration,technology,0.014376078,0.555555556,1.809196837
+613,"cancer,medicine",technology,0.002875216,0.555555556,1.809196837
+866,"alternative energy,global issues",technology,0.002875216,0.555555556,1.809196837
+913,"education,math",technology,0.002875216,0.555555556,1.809196837
+1430,"children,design",technology,0.005750431,0.555555556,1.809196837
+1452,"brain,design",technology,0.002875216,0.555555556,1.809196837
+1514,"creativity,science",technology,0.002875216,0.555555556,1.809196837
+1799,"climate change,global issues,science",technology,0.002875216,0.555555556,1.809196837
+1910,"business,collaboration,culture",technology,0.002875216,0.555555556,1.809196837
+1335,"health care,science",technology,0.00920069,0.551724138,1.796719618
+1468,"medicine,science",technology,0.016676251,0.547169811,1.781888206
+669,"medical research,science",technology,0.003450259,0.545454545,1.776302349
+783,"design,gaming",technology,0.003450259,0.545454545,1.776302349
+1029,"science,visualizations",technology,0.003450259,0.545454545,1.776302349
+1550,"business,design",technology,0.014376078,0.543478261,1.769866471
+1224,"communication,global issues",technology,0.004025302,0.538461538,1.753529242
+1394,"business,collaboration",technology,0.004025302,0.538461538,1.753529242
+1508,"biology,design",technology,0.004025302,0.538461538,1.753529242
+1187,"design,green",technology,0.004600345,0.533333333,1.736828964
+1532,"business,education",technology,0.005175388,0.529411765,1.724058163
+887,"science,universe",technology,0.005750431,0.526315789,1.713975951
+261,open source,technology,0.006900518,0.52173913,1.699071812
+272,universe,technology,0.007475561,0.52,1.69340824
+73,smell,technology,0.002300173,0.5,1.628277154
+85,map,technology,0.002875216,0.5,1.628277154
+96,biomimicry,technology,0.002300173,0.5,1.628277154
+138,chemistry,technology,0.002875216,0.5,1.628277154
+139,presentation,technology,0.002875216,0.5,1.628277154
+292,engineering,technology,0.010350776,0.5,1.628277154
+460,"illness,science",technology,0.002300173,0.5,1.628277154
+642,"health care,public health",technology,0.002300173,0.5,1.628277154
+761,"development,third world",technology,0.002300173,0.5,1.628277154
+820,"collaboration,open source",technology,0.002300173,0.5,1.628277154
+833,"astronomy,physics",technology,0.002875216,0.5,1.628277154
+845,"genetics,science",technology,0.005175388,0.5,1.628277154
+924,"Internet,web",technology,0.002875216,0.5,1.628277154
+1000,"disease,science",technology,0.005750431,0.5,1.628277154
+1006,"data,TEDx",technology,0.003450259,0.5,1.628277154
+1007,"culture,data",technology,0.002300173,0.5,1.628277154
+1064,"energy,environment",technology,0.002875216,0.5,1.628277154
+1108,"cities,sustainability",technology,0.002875216,0.5,1.628277154
+1141,"life,science",technology,0.005175388,0.5,1.628277154
+1160,"physics,science",technology,0.00920069,0.5,1.628277154
+1188,"green,science",technology,0.002300173,0.5,1.628277154
+1222,"business,communication",technology,0.003450259,0.5,1.628277154
+1329,"health care,medicine",technology,0.00920069,0.5,1.628277154
+1383,"history,science",technology,0.005750431,0.5,1.628277154
+1385,"cities,collaboration",technology,0.002300173,0.5,1.628277154
+1416,"cities,environment",technology,0.002875216,0.5,1.628277154
+1418,"design,environment",technology,0.002875216,0.5,1.628277154
+1482,"art,music",technology,0.002300173,0.5,1.628277154
+1491,"creativity,invention",technology,0.003450259,0.5,1.628277154
+1499,"culture,invention",technology,0.005175388,0.5,1.628277154
+1643,"health,health care,public health",technology,0.002300173,0.5,1.628277154
+1711,"astronomy,physics,science",technology,0.002300173,0.5,1.628277154
+1791,"climate change,environment,global issues",technology,0.002300173,0.5,1.628277154
+1883,"health,health care,medicine",technology,0.005175388,0.5,1.628277154
+1889,"health care,medicine,science",technology,0.004600345,0.5,1.628277154
+2036,"business,design,entertainment",technology,0.002300173,0.5,1.628277154
